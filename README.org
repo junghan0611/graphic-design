@@ -1,0 +1,18 @@
+* Imagery Designs
+Imagery, banners and logos for the [[https://practicalli.github.io/][Practicalli series of books]] and other communication channels where Clojure is taught by [[https://twitter.com/jr0cket][John Stevenson]].
+
+I am not a graphic designer, however, with the use of [[https://inkscape.org/][Inkscape]] and Scalable Vector Graphics, I can create some nice visualisations of information and themes.
+
+## YouTube channel banner
+[[https://www.youtube.com/playlist?list=PLy9I_IfUBzKIC9I3iUcxCyL-i1hlJfYRp][Practicalli Spacemacs playlist]] contains the all the videos created for the [[https://practicalli.github.io/spacemacs][Practicalli Spacemacs book]].
+
+I have also started running a Clojure study group via the [[https://meetamentor.co.uk/][MeetAMentor community]], using [[https://support.google.com/youtube/answer/7083786][Hangouts On Air]], which uses my Youtube account and imagery.  So I have updated my YouTube banner from a nice picture of my cat, to a simple representation of the topics I cover in my channel.
+
+YouTube can be viewed on different devices and each one is supposed to have a different size (although when actually testing this, it seems that YouTube uses
+pretty much the same part of the banner image regardless of media).
+
+Initially I just created a design with the Logo's, however, this felt a little too simplified and would not have said anything to those who didnt recognise the logos.
+
+The design was refactored to place the names the logos represented under each logo.  The font used was Ubuntu as its an elegant font to use.  The colour of each name was taken from the predominant colour of the logo it describes.  There was not much difference between the Green and Blue of the Clojure logo but Green seemed to work better for the text.
+
+[[youtube-channel-banner-simple.png]]
