@@ -19,6 +19,18 @@ The finished banner design is as follows.  It is so big so that it will fit TV d
 
 [[youtube-channel-banner-simple.png]]
 
-The new banner looks as follows on my YouTube channel:
+The simplified design worked very well.  After looking at it for a while, I realised that it wasnt specifically calling out the ClojureScript side of things and so I should add the ClojureScript logo and a logo for Figwheel.  It seems figwheel didnt have an official logo, so I made my own.
 
-[[youtube-channel-banner-website.png]]
+I added CLJS logo from https://github.com/cljs/logo
+
+The idea behind the Figwheel logo is to use the heart shape that is exposed when you cut a fig in half. Depending on the fig the inners are roughly the shape of a heart (especially when held upside down).  A quick search on Wiki Media revealed a nice [[https://commons.wikimedia.org/wiki/File:Love_Heart_SVG.svg][heart-shape SVG image]].  The heart image is in the public domain and is freely usable without conditions.
+
+As Figwheel is for ClojureScript, then the heartshape was incorporated into the existing logo.  The heart contains the CLJS text part of the logo to represent Figwheel managing ClojureScript code.  There is also a general theme of making ClojureScript feel loved, which again is what Figwheel makes developers feel.
+
+The updated logo with ClojureScript and Figwheel looks just as simple as before, yet feels more comprehensive.
+
+[[youtube-channel-banner-clojure-script.png]]
+
+The updated banner looks as follows on my YouTube channel:
+
+[[youtube-channel-banner-website-clojure-script.png]]
