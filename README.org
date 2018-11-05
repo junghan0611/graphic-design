@@ -15,4 +15,10 @@ Initially I just created a design with the Logo's, however, this felt a little t
 
 The design was refactored to place the names the logos represented under each logo.  The font used was Ubuntu as its an elegant font to use.  The colour of each name was taken from the predominant colour of the logo it describes.  There was not much difference between the Green and Blue of the Clojure logo but Green seemed to work better for the text.
 
+The finished banner design is as follows.  It is so big so that it will fit TV displays running the YouTube app (either directly or via a device).
+
 [[youtube-channel-banner-simple.png]]
+
+The new banner looks as follows on my YouTube channel:
+
+[[youtube-channel-banner-website.png]]
