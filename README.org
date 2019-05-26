@@ -1,5 +1,6 @@
-* Imagery Designs
-Imagery, banners and logos for the [[https://practicalli.github.io/][Practicalli series of books]] and other communication channels where Clojure is taught by [[https://twitter.com/jr0cket][John Stevenson]].
+* Graphic Design for Practicalli
+
+Images, banners and logos for the [[https://practicalli.github.io/][Practicalli series of books]] and other communication channels where Clojure is taught by [[https://twitter.com/jr0cket][John Stevenson]].
 
 I am not a graphic designer, however, with the use of [[https://inkscape.org/][Inkscape]] and Scalable Vector Graphics, I can create some nice visualisations of information and themes.
 
@@ -48,3 +49,10 @@ The updated logo with ClojureScript and Figwheel looks just as simple as before,
 The updated banner looks as follows on my YouTube channel:
 
 [[youtube-channel-banner-website-clojure-script.png]]
+
+
+## YouTube new banner - white background
+
+I have changed the YouTube banner image to have a white background so it blends in better with the YouTube webpage and the newly created [[https://practicalli.github.io/][practicalli website]].
+
+[[file:youtube-channel-banner-clojure-script-light.png]]
