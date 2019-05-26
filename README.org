@@ -3,6 +3,20 @@ Imagery, banners and logos for the [[https://practicalli.github.io/][Practicalli
 
 I am not a graphic designer, however, with the use of [[https://inkscape.org/][Inkscape]] and Scalable Vector Graphics, I can create some nice visualisations of information and themes.
 
+## Practicalli logo
+
+[[practicalli-logo.svg][SVG version]]
+[[practicalli-logo.png][PNG version]]
+
+I have used the colours used by the Clojure logos to create a very simple logo for Practicalli.  The logo is a simple circle, represented by two half circles of the Green and Blue colours.
+
+In the center, the logo has the name of Practicalli in short form, P9I.  With internationalisation and localisation, the characters in between the first and last characters are replaced by a number that is the total number of those characters.  There are 9 character inside the first and last, so we get P9I.  These characters have been created as separate items, so they can be coloured differently.  The 9 character is de-emphasised by using a grey colour and lowering the character position to suggest lesser importance.
+
+
+[[file:practicalli-logo.png]]
+
+
+
 ## YouTube channel banner
 [[https://www.youtube.com/playlist?list=PLy9I_IfUBzKIC9I3iUcxCyL-i1hlJfYRp][Practicalli Spacemacs playlist]] contains the all the videos created for the [[https://practicalli.github.io/spacemacs][Practicalli Spacemacs book]].
 
