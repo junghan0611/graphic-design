@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gitter-chat-badge-practicalli.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient-1"
+       y2="256"
+       x2="128"
+       y1="0"
+       x1="128"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop4029"
+         offset="0%"
+         stop-color="#FB0766" />
+      <stop
+         id="stop4031"
+         offset="100%"
+         stop-color="#C50948" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="378.10033"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1720"
+     inkscape:window-height="1388"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <g
+       id="g4049"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#555555"
+         inkscape:connector-curvature="0"
+         d="m 102.51732,457.37835 102.71796,0 0,44.11715 -102.71796,0 z"
+         id="path3534" />
+      <path
+         style="fill:#46bc99"
+         inkscape:connector-curvature="0"
+         d="m 205.23528,457.37835 561.31254,0 0,44.11715 -561.31254,0 z"
+         id="path3536" />
+      <path
+         style="fill:url(#b)"
+         inkscape:connector-curvature="0"
+         d="m 117.00096,457.48255 218.37993,0 0,44.11715 -218.37993,0 z"
+         id="path3538" />
+      <g
+         transform="matrix(2.2058579,0,0,2.2058579,160.99311,618.73517)"
+         id="g3540-7"
+         font-size="11"
+         style="font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff">
+        <g
+           transform="translate(-23.738585,-66.164992)"
+           id="g3638">
+          <text
+             style="fill:#010101;fill-opacity:0.3"
+             x="20"
+             y="7"
+             id="text3542-8">gitter</text>
+          <text
+             x="20"
+             y="6"
+             id="text3544-5">gitter</text>
+        </g>
+        <text
+           id="text3546-5"
+           y="15"
+           x="68.5"
+           style="fill:#010101;fill-opacity:0.3" />
+        <text
+           id="text3548-2"
+           y="14"
+           x="68.5" />
+      </g>
+      <g
+         transform="matrix(2.2058579,0,0,2.2058579,108.00772,583.08315)"
+         id="g3540-1"
+         font-size="11"
+         style="font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff">
+        <text
+           id="text3542-6"
+           y="15"
+           x="20"
+           style="fill:#010101;fill-opacity:0.3" />
+        <text
+           id="text3544-7"
+           y="14"
+           x="20" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3546-7-9"
+           y="-42.578697"
+           x="170.73755"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans, Verdana, Geneva, sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#010101;fill-opacity:0.3">
+          <tspan
+             y="-42.578697"
+             x="170.73755"
+             id="tspan3673"
+             sodipodi:role="line">discuss Clojure in the Practicalli chat room</tspan>
+        </text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3548-6-4"
+           y="-43.578697"
+           x="170.73755"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;-inkscape-font-specification:'DejaVu Sans, Verdana, Geneva, sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff">
+          <tspan
+             y="-43.578697"
+             x="170.73755"
+             id="tspan3671"
+             sodipodi:role="line">discuss Clojure in the Practicalli chat room</tspan>
+        </text>
+      </g>
+      <g
+         transform="matrix(0.17404604,0,0,0.17266497,58.407257,457.33581)"
+         id="g4033">
+        <path
+           style="fill:url(#linearGradient-1)"
+           inkscape:connector-curvature="0"
+           d="M 0,0 256,0 256,256 0,256 0,0 Z"
+           id="path4035" />
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 83.914,62.873 12.525,0 0,82.661 -12.525,0 0,-82.661 z m 76.149,20.039 12.524,0 0,62.622 -12.524,0 0,-62.622 z m -50.599,0 12.524,0 0,110.466 -12.524,0 0,-110.466 z m 25.049,0 12.525,0 0,110.466 -12.525,0 0,-110.466 z"
+           id="path4037" />
+      </g>
+    </g>
+  </g>
+</svg>
