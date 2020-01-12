@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40.955677mm"
+   height="50.197662mm"
+   viewBox="0 0 40.955677 50.197662"
+   version="1.1"
+   id="svg13915"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="figwheel-logo-mk2.svg"
+   inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/figwheel-logo-mk2-name.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs13909">
+    <filter
+       height="1.2535408"
+       y="-0.12677042"
+       width="1.2279598"
+       x="-0.11397986"
+       id="filter2607-3"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur2609-6"
+         stdDeviation="30.39463"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-1.128066"
+     inkscape:cy="88.562325"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="777"
+     inkscape:window-height="708"
+     inkscape:window-x="1503"
+     inkscape:window-y="304"
+     inkscape:window-maximized="0"
+     fit-margin-top="4"
+     fit-margin-left="4"
+     fit-margin-right="4"
+     fit-margin-bottom="4" />
+  <metadata
+     id="metadata13912">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.099543,-16.389262)">
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.21620403;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1035"
+       cx="41.577381"
+       cy="36.8671"
+       r="16.369736" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 41.200829,44.957817 c -0.40115,-0.44481 -1.402802,-1.31195 -2.225892,-1.927 -2.438753,-1.82233 -2.770668,-2.08606 -3.760852,-2.98824 -1.825467,-1.66322 -2.600712,-3.33421 -2.598056,-5.59995 0.0013,-1.10604 0.07748,-1.53216 0.390516,-2.18411 0.53108,-1.1061 1.313387,-1.92801 2.313566,-2.4307 0.708392,-0.35604 1.057769,-0.51422 2.240736,-0.52069 1.237468,-0.007 1.49797,0.136 2.225893,0.53169 0.886007,0.48163 1.797957,1.51095 1.98647,2.24214 l 0.116431,0.4516 0.287127,-0.62196 c 1.622538,-3.51468 6.802732,-3.4621 8.605467,0.0874 0.571878,1.12599 0.634663,3.53025 0.127555,4.88456 -0.661502,1.76664 -1.903963,3.1135 -4.776108,5.17743 -1.883602,1.35356 -4.015409,3.40152 -4.16381,3.68916 -0.172268,0.3339 -0.0082,0.0523 -0.769043,-0.79129 z"
+       id="path2417-7-9-3"
+       style="fill:#c80000;fill-opacity:1;stroke:#9200bd;stroke-width:2.13645911;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       style="fill:#ff0000;fill-opacity:1;stroke:#9200ff;stroke-width:73.75244904;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2607-3)"
+       transform="matrix(0.02912149,0,0,0.02881527,36.308078,27.231987)"
+       id="g2221-5-3-5" />
+    <path
+       style="fill:#96ca4b;stroke:#96ca4b;stroke-width:0.52916664;stroke-miterlimit:10;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       stroke-miterlimit="10"
+       d="m 40.520995,50.139387 c -6.842429,-0.60772 -12.229339,-6.37727 -12.229339,-13.37725 0,-6.99999 5.38691,-12.76204 12.229339,-13.36976 v -1.50804 c -7.675219,0.61522 -13.729879,7.05251 -13.729879,14.88529 0,7.83279 6.05466,14.27007 13.729879,14.8853 z"
+       id="path945-2-0-2" />
+    <path
+       style="fill:#5f7fbf;stroke:#5f7fbf;stroke-width:0.52916664;stroke-miterlimit:10;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       stroke-miterlimit="10"
+       d="m 42.921855,21.884337 v 1.50804 c 6.84243,0.60772 12.22934,6.37727 12.22934,13.37725 0,6.99999 -5.38691,12.76954 -12.22934,13.37726 v 1.50804 c 7.67523,-0.61523 13.729879,-7.05251 13.729879,-14.8853 0,-7.83278 -6.054649,-14.27007 -13.729879,-14.88529 z"
+       id="path947-7-6-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.95137119px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#c80000;fill-opacity:1;stroke:#9200bd;stroke-width:0.10583333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="29.360624"
+       y="54.795681"
+       id="text26365-9-3-3"
+       transform="scale(0.9001588,1.1109151)"><tspan
+         sodipodi:role="line"
+         id="tspan26363-7-6-6"
+         x="29.360624"
+         y="54.795681"
+         style="font-size:7.95137119px;fill:#c80000;fill-opacity:1;stroke:#9200bd;stroke-width:0.10583333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Figwheel</tspan></text>
+    <rect
+       style="fill:#96ca4b;fill-opacity:1;stroke:#96ca4b;stroke-width:0.39977145;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13839"
+       width="6.2189426"
+       height="1.468483"
+       x="-12.18677"
+       y="47.715668"
+       transform="matrix(0.61749624,-0.78657383,0.93331708,0.35905324,0,0)"
+       inkscape:transform-center-x="-1.2027129"
+       inkscape:transform-center-y="0.13363477" />
+    <rect
+       style="fill:#5f7fbf;fill-opacity:1;stroke:#5f7fbf;stroke-width:0.39977145;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13839-2"
+       width="6.2189426"
+       height="1.468483"
+       x="-34.49361"
+       y="66.990204"
+       transform="matrix(0.61749624,-0.78657383,0.93331708,0.35905324,0,0)"
+       inkscape:transform-center-x="-1.2027129"
+       inkscape:transform-center-y="0.13363477" />
+  </g>
+</svg>
