@@ -15,7 +15,7 @@
    viewBox="0 0 211.66667 79.375003"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="practicalli-clojure-book-banner.svg"
    inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/practicalli-clojure-book-banner.png"
    inkscape:export-xdpi="90"
@@ -588,33 +588,27 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="601.52718"
+     inkscape:cx="396.02718"
      inkscape:cy="134.11246"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:window-width="3440"
-     inkscape:window-height="1416"
+     inkscape:window-height="1408"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:pagecheckerboard="true"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       position="247.00382,100.53678"
-       orientation="0,1"
-       id="guide10353"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -656,30 +650,30 @@
      inkscape:label="foreground"
      transform="translate(-100.73748,-135.7125)">
     <g
-       id="g7200"
-       transform="translate(0.2323273)">
+       id="g5742"
+       transform="translate(1.4275981)">
       <text
          id="text6629"
          y="147.2482"
-         x="240.39505"
+         x="180.03032"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.28419256px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:0.20082152px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"
          transform="scale(0.97796469,1.0225318)"><tspan
            id="tspan6641"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.16730499px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:center;text-anchor:middle;fill:#800080;stroke:#800080;stroke-width:0.20082152px;stroke-opacity:1"
            y="147.2482"
-           x="240.39505"
-           sodipodi:role="line">practicalli</tspan></text>
+           x="180.03032"
+           sodipodi:role="line">Practicalli</tspan></text>
       <text
          transform="scale(0.97796469,1.0225318)"
          id="text26365"
-         y="148.26544"
-         x="134.00325"
+         y="147.2482"
+         x="229.47299"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.16730309px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#63b132;fill-opacity:1;stroke:#63b132;stroke-width:0.26823911px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-size:16.98132515px;fill:#63b132;fill-opacity:1;stroke:#63b132;stroke-width:0.26823911px;stroke-opacity:1"
-           y="148.26544"
-           x="134.00325"
+           y="147.2482"
+           x="229.47299"
            id="tspan26363"
            sodipodi:role="line">Clojure</tspan></text>
     </g>
