@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="800"
-   height="300"
-   viewBox="0 0 211.66667 79.375003"
+   width="711.60901"
+   height="332.12277"
+   viewBox="0 0 188.27989 87.874153"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="practicalli-spacemacs-book-banner.svg"
    inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/practicalli-spacemacs-book-banner.png"
    inkscape:export-xdpi="90"
@@ -25,30 +25,32 @@
     <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="marker6377"
-       style="overflow:visible;"
+       style="overflow:visible"
        inkscape:isstock="true">
       <path
          id="path6375"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#008000;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(1.1) rotate(180) translate(1,0)" />
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow2Lend"
-       style="overflow:visible;"
+       style="overflow:visible"
        inkscape:isstock="true">
       <path
          id="path5346"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#008000;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(1.1) rotate(180) translate(1,0)" />
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <linearGradient
        id="linearGradient4221">
@@ -775,33 +777,27 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="379.71148"
-     inkscape:cy="119.08298"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="323.69631"
+     inkscape:cy="213.99941"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
-     inkscape:window-width="3440"
-     inkscape:window-height="1416"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1712"
+     inkscape:window-height="1409"
+     inkscape:window-x="1722"
+     inkscape:window-y="4"
      inkscape:window-maximized="0"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     fit-margin-top="16"
+     fit-margin-left="16"
+     fit-margin-right="16"
+     fit-margin-bottom="16"
      inkscape:pagecheckerboard="true"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       position="247.00382,100.53678"
-       orientation="0,1"
-       id="guide10353"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -810,7 +806,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -835,42 +831,43 @@
      inkscape:label="background"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-100.73748,-127.9125)"
+     transform="translate(-112.43087,-127.46011)"
      style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="foreground"
-     transform="translate(-100.73748,-135.7125)">
+     transform="translate(-112.43087,-135.26011)">
     <g
-       id="g5237"
-       transform="translate(15.162326,-2.1166641)">
+       id="g1290"
+       transform="translate(-2.210372)">
       <text
          id="text6629"
-         y="147.29398"
-         x="240.63261"
+         y="148.32896"
+         x="167.93858"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.28419256px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:#800080;stroke-width:0.20082152px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"
          transform="scale(0.97796469,1.0225318)"><tspan
            id="tspan6641"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.16730499px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:center;text-anchor:middle;fill:#800080;stroke:#800080;stroke-width:0.20082152px;stroke-opacity:1"
-           y="147.29398"
-           x="240.63261"
-           sodipodi:role="line">practicalli</tspan></text>
+           y="148.32896"
+           x="167.93858"
+           sodipodi:role="line">Practicalli</tspan></text>
       <text
          id="text26365-6"
-         y="151.46219"
-         x="101.33569"
+         y="151.67107"
+         x="213.86354"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.35508347px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#6c5f8b;fill-opacity:1;stroke:#6c5f8b;stroke-width:0.14617318px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-size:16.93333435px;fill:#6c5f8b;fill-opacity:1;stroke:#6c5f8b;stroke-width:0.14617318px;stroke-opacity:1"
-           y="151.46219"
-           x="101.33569"
+           y="151.67107"
+           x="213.86354"
            id="tspan26363-1"
            sodipodi:role="line">Spacemacs</tspan></text>
     </g>
     <g
-       id="g4377">
+       id="g4377"
+       transform="matrix(1.1557623,0,0,1.1557623,-28.826811,-29.095882)">
       <g
          transform="matrix(0.32626885,0,0,0.32626885,185.0546,125.59644)"
          id="g5563">
@@ -946,7 +943,7 @@
              id="path945-2-0-2-3-6-3" />
           <polygon
              id="polygon4693-5-0-6"
-             points="990.9,146 533,146 533,439 774.5,439 872.5,744.9 168.3,1836.6 140.3,1880 500.4,1884.5 1024.9,1112.3 1368.5,1979.8 1912,1807.7 1825.5,1540.3 1576,1616.4 "
+             points="140.3,1880 500.4,1884.5 1024.9,1112.3 1368.5,1979.8 1912,1807.7 1825.5,1540.3 1576,1616.4 990.9,146 533,146 533,439 774.5,439 872.5,744.9 168.3,1836.6 "
              class="st1"
              style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:92.72168732;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              transform="matrix(0.01774149,0,0,0.01771528,368.64886,59.994671)"
@@ -1309,10 +1306,10 @@
       </g>
     </g>
     <g
-       id="g6575"
-       transform="translate(-1.0919724,5.7181106)">
+       id="g1284"
+       transform="translate(-1.5894877)">
       <g
-         transform="translate(11.973675,-81.757751)"
+         transform="translate(10.881703,-76.03964)"
          id="g6434">
         <g
            style="fill:#665985;fill-opacity:1"
@@ -1406,7 +1403,7 @@
              sodipodi:role="line">Mnemonic</tspan></text>
       </g>
       <g
-         transform="translate(11.973675,-83.874417)"
+         transform="translate(10.881703,-78.156306)"
          id="g6408">
         <text
            id="text5621-1"
@@ -1485,7 +1482,7 @@
         </g>
       </g>
       <g
-         transform="translate(-0.72632684,-81.757751)"
+         transform="translate(1.3567009,-76.03964)"
          id="g6481">
         <text
            id="text5621-1-7"
@@ -1569,7 +1566,7 @@
         </g>
       </g>
       <g
-         transform="translate(-0.72632684,-81.757751)"
+         transform="translate(1.3567009,-76.03964)"
          id="g6457">
         <text
            id="text5621-1-6"
