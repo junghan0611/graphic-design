@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="245.23616mm"
-   height="137.86537mm"
-   viewBox="0 0 245.23617 137.86537"
+   width="309.40063mm"
+   height="131.4509mm"
+   viewBox="0 0 309.40065 131.4509"
    version="1.1"
    id="svg1578"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="371.56584"
-     inkscape:cy="332.09032"
+     inkscape:cx="1023.4805"
+     inkscape:cy="307.84666"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -62,7 +62,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(461.20237,-30.052743)">
+     transform="translate(525.36706,-30.052743)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:0.30980392;stroke:#808080;stroke-width:2.14293098;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.30980392"
        id="rect21793-6"
@@ -226,7 +226,7 @@
        style="opacity:0.31200005;fill:#ffffff;fill-opacity:0.88627451;stroke:#ffffff;stroke-width:2.67125154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.88627451"
        id="path15630"
        cx="-274.3992"
-       cy="145.86884"
+       cy="144.28136"
        rx="38.075882"
        ry="6.0035415" />
     <g
@@ -434,11 +434,11 @@
        transform="matrix(1.6776682,0,0,1.6776682,28.38791,-484.59285)"
        style="stroke:#808080">
       <g
-         style="display:inline;stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;stroke:#808080"
+         style="display:inline;stroke:#808080;stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none"
          transform="matrix(-0.11160667,8.389858e-4,0.00114143,-0.12025761,-237.43597,424.68046)"
          id="g5650-08-5-3-0-75-10-6-8">
         <g
-           style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none;stroke:#808080"
+           style="stroke:#808080;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
            transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
            id="g5654-7-4-7-2-7-8-2-9">
           <rect
@@ -676,11 +676,11 @@
        transform="matrix(1.6776682,0,0,1.6776682,108.2348,-484.50928)"
        style="stroke:#808080">
       <g
-         style="display:inline;stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;stroke:#808080"
+         style="display:inline;stroke:#808080;stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none"
          transform="matrix(-0.11160667,8.389858e-4,0.00114143,-0.12025761,-237.43597,424.68046)"
          id="g5650-08-5-3-0-75-10-6-7-1">
         <g
-           style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none;stroke:#808080"
+           style="stroke:#808080;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
            transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
            id="g5654-7-4-7-2-7-8-2-7-1">
           <rect
@@ -904,14 +904,14 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.46674395px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.1616686;"
+       style="font-style:normal;font-weight:normal;font-size:6.46674395px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.1616686"
        x="-484.22565"
        y="71.142776"
        id="text948-1-7"><tspan
          sodipodi:role="line"
          x="-484.22565"
          y="71.142776"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;stroke-width:0.1616686;fill:#666666;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#666666;stroke-width:0.1616686"
          id="tspan950-9-5">New Connection</tspan></text>
     <text
        xml:space="preserve"
