@@ -12,27 +12,27 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="371.73859"
    height="97.018433"
-   viewBox="0 0 98.355829 25.669456"
+   viewBox="0 0 98.35583 25.669456"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="practicalli-slack-channel.svg"
-   inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/practicalli-slack-channel.png"
+   sodipodi:docname="practicalli-zulip-channel.svg"
+   inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/practicalli-zulip-channel.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3465">
+       id="linearGradient3457">
       <stop
-         style="stop-color:#e01e5a;stop-opacity:1;"
+         style="stop-color:#186039;stop-opacity:1;"
          offset="0"
-         id="stop3461" />
+         id="stop3453" />
       <stop
-         style="stop-color:#e01e5a;stop-opacity:0;"
+         style="stop-color:#186039;stop-opacity:0;"
          offset="1"
-         id="stop3463" />
+         id="stop3455" />
     </linearGradient>
     <linearGradient
        id="linearGradient4221">
@@ -382,15 +382,66 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.19223796,0.10084273,-0.11165007,0.1267112,-724.74062,-701.33347)" />
     <linearGradient
+       id="linearGradient-1"
+       y2="62.452332"
+       x2="102.97687"
+       y1="62.452332"
+       x1="8.7429123"
+       gradientTransform="scale(1.805544,0.55384969)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1060"
+         offset="0%"
+         stop-color="#1E8D55" />
+      <stop
+         id="stop1062"
+         offset="100%"
+         stop-color="#134225" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient-2"
+       y2="207.74036"
+       x2="43.407299"
+       y1="36.029663"
+       x1="224.36723"
+       gradientTransform="scale(1.0560205,0.94695129)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1065"
+         offset="0%"
+         stop-color="#1E8D55" />
+      <stop
+         id="stop1067"
+         offset="100%"
+         stop-color="#134225" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient-3"
+       y2="485.69226"
+       x2="100.55902"
+       y1="452.71408"
+       x1="10.478932"
+       gradientTransform="scale(1.8655394,0.536038)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1070"
+         offset="0%"
+         stop-color="#1E8D55" />
+      <stop
+         id="stop1072"
+         offset="100%"
+         stop-color="#134225" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3465"
-       id="linearGradient3467"
-       x1="-115.76888"
-       y1="98.641693"
-       x2="-21.646385"
-       y2="98.641693"
+       xlink:href="#linearGradient3457"
+       id="linearGradient3459"
+       x1="-84.784744"
+       y1="103.19563"
+       x2="9.3377533"
+       y2="103.19563"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(15.610417,-66.493813)" />
+       gradientTransform="translate(-15.875,-70.908334)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -400,23 +451,24 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="141.07598"
-     inkscape:cy="201.30181"
+     inkscape:cx="243.94006"
+     inkscape:cy="252.6339"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
-     inkscape:window-width="1139"
-     inkscape:window-height="1409"
-     inkscape:window-x="2295"
-     inkscape:window-y="4"
+     inkscape:window-width="3440"
+     inkscape:window-height="1419"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      fit-margin-top="8"
      fit-margin-left="8"
      fit-margin-right="8"
      fit-margin-bottom="8"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -450,107 +502,62 @@
      inkscape:label="background"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(102.27513,-11.513088)"
+     transform="translate(102.77641,-11.652505)"
      style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="foreground"
-     transform="translate(102.27513,-19.313151)">
+     transform="translate(102.77641,-19.452568)">
     <rect
-       style="opacity:0.23999999;fill:url(#linearGradient3467);fill-opacity:1;stroke:#7289da;stroke-width:0.68707246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3359"
+       style="opacity:0.23999999;fill:url(#linearGradient3459);fill-opacity:1;stroke:#7289da;stroke-width:0.68707246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3359-3"
        width="93.435425"
        height="20.749054"
-       x="-99.814926"
-       y="21.773354"
+       x="-100.31621"
+       y="21.912771"
        rx="4.7608843" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.55657148px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11807143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-67.058716"
-       y="29.088192"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.88518381px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107581px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-66.749191"
+       y="30.083427"
        id="text4997"><tspan
          sodipodi:role="line"
          id="tspan4995"
-         x="-67.058716"
-         y="29.088192"
-         style="stroke-width:0.11807143px">#practicalli</tspan></text>
-    <g
-       id="g4963"
-       transform="matrix(0.13192146,0,0,0.13192146,-103.17287,15.285843)">
-      <g
-         id="g4943">
-        <path
-           style="fill:#e01e5a"
-           inkscape:connector-curvature="0"
-           class="st0"
-           d="m 89.2,142 c 0,7.3 -5.9,13.2 -13.2,13.2 -7.3,0 -13.2,-5.9 -13.2,-13.2 0,-7.3 5.9,-13.2 13.2,-13.2 h 13.2 z"
-           id="path4939" />
-        <path
-           style="fill:#e01e5a"
-           inkscape:connector-curvature="0"
-           class="st0"
-           d="m 95.8,142 c 0,-7.3 5.9,-13.2 13.2,-13.2 7.3,0 13.2,5.9 13.2,13.2 v 33 c 0,7.3 -5.9,13.2 -13.2,13.2 -7.3,0 -13.2,-5.9 -13.2,-13.2 z"
-           id="path4941" />
-      </g>
-      <g
-         id="g4949">
-        <path
-           style="fill:#36c5f0"
-           inkscape:connector-curvature="0"
-           class="st1"
-           d="m 109,89 c -7.3,0 -13.2,-5.9 -13.2,-13.2 0,-7.3 5.9,-13.2 13.2,-13.2 7.3,0 13.2,5.9 13.2,13.2 V 89 Z"
-           id="path4945" />
-        <path
-           style="fill:#36c5f0"
-           inkscape:connector-curvature="0"
-           class="st1"
-           d="m 109,95.7 c 7.3,0 13.2,5.9 13.2,13.2 0,7.3 -5.9,13.2 -13.2,13.2 H 75.9 c -7.3,0 -13.2,-5.9 -13.2,-13.2 0,-7.3 5.9,-13.2 13.2,-13.2 z"
-           id="path4947" />
-      </g>
-      <g
-         id="g4955">
-        <path
-           style="fill:#2eb67d"
-           inkscape:connector-curvature="0"
-           class="st2"
-           d="m 161.9,108.9 c 0,-7.3 5.9,-13.2 13.2,-13.2 7.3,0 13.2,5.9 13.2,13.2 0,7.3 -5.9,13.2 -13.2,13.2 h -13.2 z"
-           id="path4951" />
-        <path
-           style="fill:#2eb67d"
-           inkscape:connector-curvature="0"
-           class="st2"
-           d="m 155.3,108.9 c 0,7.3 -5.9,13.2 -13.2,13.2 -7.3,0 -13.2,-5.9 -13.2,-13.2 V 75.8 c 0,-7.3 5.9,-13.2 13.2,-13.2 7.3,0 13.2,5.9 13.2,13.2 z"
-           id="path4953" />
-      </g>
-      <g
-         id="g4961">
-        <path
-           style="fill:#ecb22e"
-           inkscape:connector-curvature="0"
-           class="st3"
-           d="m 142.1,161.8 c 7.3,0 13.2,5.9 13.2,13.2 0,7.3 -5.9,13.2 -13.2,13.2 -7.3,0 -13.2,-5.9 -13.2,-13.2 v -13.2 z"
-           id="path4957" />
-        <path
-           style="fill:#ecb22e"
-           inkscape:connector-curvature="0"
-           class="st3"
-           d="m 142.1,155.2 c -7.3,0 -13.2,-5.9 -13.2,-13.2 0,-7.3 5.9,-13.2 13.2,-13.2 h 33.1 c 7.3,0 13.2,5.9 13.2,13.2 0,7.3 -5.9,13.2 -13.2,13.2 z"
-           id="path4959" />
-      </g>
-    </g>
+         x="-66.749191"
+         y="30.083427"
+         style="stroke-width:0.107581px">#practicalli</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.95832062px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12434876px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-43.058178"
-       y="38.867027"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.4389081px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11623294px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-44.127197"
+       y="38.923054"
        id="text5030"><tspan
          sodipodi:role="line"
-         x="-43.058178"
-         y="38.867027"
-         style="font-size:8.46666622px;text-align:center;text-anchor:middle;stroke-width:0.12434876px"
-         id="tspan5036">Clojurians Slack</tspan></text>
+         x="-44.127197"
+         y="38.923054"
+         style="font-size:8.46666622px;text-align:center;text-anchor:middle;stroke-width:0.11623294px"
+         id="tspan5036">Clojurians Zulip</tspan></text>
+    <g
+       id="g1083"
+       transform="matrix(0.04759544,0,0,0.04759544,-92.05195,24.967964)">
+      <path
+         id="path1077"
+         d="M 1.2427184,0.8288932 H 220.79006 l 0.56916,3.6759612 -64,63.8446606 H 31.896854 L 1.2427184,0.8288932"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient-1)" />
+      <path
+         id="path1079"
+         d="M 100.03884,227.41748 4.0388349,226.79612 0.41382524,223.68932 220.79006,0.8288932 253.10074,67.520621 Z"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient-2)" />
+      <path
+         id="path1081"
+         d="M 220.37499,223.68932 H 0.41382524 L 34.796116,297.00971 H 255.58617 l -35.21118,-73.32039"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient-3)" />
+    </g>
   </g>
   <style
      type="text/css"
