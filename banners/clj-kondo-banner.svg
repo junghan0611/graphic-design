@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="clj-kondo-banner.svg"
-   inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/banners/neovim-conjure-banner.png"
+   inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/banners/clj-kondo-banner.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -99,10 +99,10 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284272"
-     inkscape:cx="428.71342"
+     inkscape:cx="422.17268"
      inkscape:cy="106.96031"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -133,26 +133,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-44.234029,-443.16258)">
-    <g
-       style="fill:none"
-       id="g940"
-       transform="matrix(0.93749998,0,0,0.93749998,85.025541,451.82425)">
-      <path
-         style="fill:#6c71c4"
-         inkscape:connector-curvature="0"
-         id="path30"
-         d="m 45.52505,23.832 c 0,9.216 -2.928,14.352 -9.816,20.952 l 2.977,2.88 c 7.728,-6.408 12.384,-13.056 12.384,-23.832 0,-10.776 -4.656,-17.424 -12.384,-23.832 l -2.977,2.88 c 6.744,6.48 9.816,11.688 9.816,20.952 z" />
-      <path
-         style="fill:#6c71c4"
-         inkscape:connector-curvature="0"
-         id="path32"
-         d="m 10.64905,46.2961 h 13.08 v -4.248 h -8.016 V 5.6641 h 8.016 v -4.296 h -13.08 z" />
-      <path
-         style="stroke:#b58900;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
-         inkscape:connector-curvature="0"
-         id="path34"
-         d="m 7.3210502,57.632 3.9999998,-4 4,4 4,-4 4,4 4,-4 4,4 4,-4 4,4 4,-4 4,4 4,-4" />
-    </g>
     <image
        y="433.92096"
        x="493.79608"
@@ -758,5 +738,16 @@ QCkAzXfgxQAAAABJRU5ErkJggg==
        preserveAspectRatio="none"
        height="86.806023"
        width="242.87924" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.23609161px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.67073548"
+       x="70.894363"
+       y="495.45651"
+       id="text3861"><tspan
+         sodipodi:role="line"
+         id="tspan3859"
+         x="70.894363"
+         y="495.45651"
+         style="stroke-width:0.67073548">Code analysis</tspan></text>
   </g>
 </svg>
