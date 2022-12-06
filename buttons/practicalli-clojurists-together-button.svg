@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="255.35463"
    height="97.018433"
    viewBox="0 0 67.562576 25.669456"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="practicalli-clojurists-together-button.svg"
-   inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/practicalli-clojurists-together-button.png"
+   inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/buttons/practicalli-clojurists-together-button.png"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <linearGradient
@@ -443,22 +443,22 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="119.44864"
-     inkscape:cy="27.651092"
+     inkscape:cx="215.125"
+     inkscape:cy="76.5"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:window-width="3440"
-     inkscape:window-height="1416"
+     inkscape:window-height="1415"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      fit-margin-top="8"
      fit-margin-left="8"
@@ -467,7 +467,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="false"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -476,7 +477,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -509,63 +509,59 @@
      inkscape:label="foreground"
      transform="translate(102.77641,-19.452568)">
     <rect
-       style="opacity:1;fill:url(#linearGradient2120);fill-opacity:1;stroke:#d7e3f4;stroke-width:0.564781;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.75723677;fill:url(#linearGradient2120);fill-opacity:1;stroke:#d7e3f4;stroke-width:0.564781;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3359-3"
        width="62.764465"
        height="20.871346"
        x="-100.37736"
        y="21.851625"
        rx="3.1980841" />
-    <g
-       id="g974"
-       transform="translate(-0.17736742)">
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.00306px;line-height:1.05;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold Italic';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#123984;fill-opacity:1;stroke-width:0.125049"
-         x="-77.713989"
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.00306px;line-height:1.05;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold Italic';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#5599ff;fill-opacity:1;stroke-width:0.125049;stroke:#002255;stroke-opacity:1"
+       x="-77.891357"
+       y="30.577591"
+       id="text2124-3"><tspan
+         sodipodi:role="line"
+         x="-77.891357"
          y="30.577591"
-         id="text2124-3"><tspan
-           sodipodi:role="line"
-           x="-77.713989"
-           y="30.577591"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#123984;fill-opacity:1;stroke-width:0.125049"
-           id="tspan962">Clojurists</tspan><tspan
-           sodipodi:role="line"
-           x="-77.713989"
-           y="38.980804"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#123984;fill-opacity:1;stroke-width:0.125049"
-           id="tspan966">Together</tspan></text>
-      <g
-         id="g8056"
-         transform="matrix(1.2738216,0,0,1.2738216,75.618744,-43.14726)">
-        <path
-           style="fill:#63b132;fill-opacity:0.00392157;stroke:#63b132;stroke-width:2.76546;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path8050"
-           sodipodi:type="arc"
-           sodipodi:cx="51.198513"
-           sodipodi:cy="135.38525"
-           sodipodi:rx="5.6267576"
-           sodipodi:ry="5.4156518"
-           sodipodi:start="4.712389"
-           sodipodi:end="0"
-           sodipodi:arc-type="arc"
-           d="m 51.198513,129.9696 a 5.6267576,5.4156518 0 0 1 5.626758,5.41565"
-           sodipodi:open="true"
-           transform="matrix(0.0089287,0.99996014,-0.99995355,0.00963842,0,0)" />
-        <circle
-           style="fill:#5881d8;fill-opacity:0.00392157;stroke:#5881d8;stroke-width:3.07504;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path8052"
-           sodipodi:type="arc"
-           sodipodi:cx="-124.45159"
-           sodipodi:cy="60.763512"
-           sodipodi:rx="4.3456774"
-           sodipodi:ry="3.9195461"
-           sodipodi:start="1.5707963"
-           sodipodi:end="4.712389"
-           sodipodi:arc-type="arc"
-           d="m -124.45159,64.683058 a 4.3456774,3.9195461 0 0 1 -3.76347,-1.959773 4.3456774,3.9195461 0 0 1 0,-3.919546 4.3456774,3.9195461 0 0 1 3.76347,-1.959773"
-           sodipodi:open="true" />
-      </g>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#5599ff;fill-opacity:1;stroke-width:0.125049;stroke:#002255;stroke-opacity:1"
+         id="tspan962">Clojurists</tspan><tspan
+         sodipodi:role="line"
+         x="-77.891357"
+         y="38.980804"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#5599ff;fill-opacity:1;stroke-width:0.125049;stroke:#002255;stroke-opacity:1"
+         id="tspan966">Together</tspan></text>
+    <g
+       id="g8056"
+       transform="matrix(1.2738216,0,0,1.2738216,75.441377,-43.14726)">
+      <path
+         style="fill:#63b132;fill-opacity:0.00392157;stroke:#63b132;stroke-width:2.76546;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path8050"
+         sodipodi:type="arc"
+         sodipodi:cx="51.198513"
+         sodipodi:cy="135.38525"
+         sodipodi:rx="5.6267576"
+         sodipodi:ry="5.4156518"
+         sodipodi:start="4.712389"
+         sodipodi:end="0"
+         sodipodi:arc-type="arc"
+         sodipodi:open="true"
+         transform="matrix(0.0089287,0.99996014,-0.99995355,0.00963842,0,0)"
+         d="m 51.198513,129.9696 a 5.6267576,5.4156518 0 0 1 5.626758,5.41565" />
+      <circle
+         style="fill:#5881d8;fill-opacity:0.00392157;stroke:#5881d8;stroke-width:3.07504;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path8052"
+         sodipodi:type="arc"
+         sodipodi:cx="-124.45159"
+         sodipodi:cy="60.763512"
+         sodipodi:rx="4.3456774"
+         sodipodi:ry="3.9195461"
+         sodipodi:start="1.5707963"
+         sodipodi:end="4.712389"
+         sodipodi:arc-type="arc"
+         sodipodi:open="true"
+         d="m -124.45159,64.683058 a 4.3456774,3.9195461 0 0 1 -3.76347,-1.959773 4.3456774,3.9195461 0 0 1 0,-3.919546 4.3456774,3.9195461 0 0 1 3.76347,-1.959773" />
     </g>
   </g>
   <style
