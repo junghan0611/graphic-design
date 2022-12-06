@@ -2,24 +2,24 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="371.73859"
    height="97.018433"
    viewBox="0 0 98.35583 25.669456"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="practicalli-zulip-channel.svg"
-   inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/practicalli-zulip-channel.png"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="practicalli-zulip-channel-button.svg"
+   inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/buttons/practicalli-zulip-channel-button.png"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <linearGradient
@@ -445,30 +445,31 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="243.94006"
-     inkscape:cy="252.6339"
+     inkscape:cx="102.5"
+     inkscape:cy="-150"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:window-width="3440"
-     inkscape:window-height="1419"
+     inkscape:window-height="1415"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
      fit-margin-top="8"
      fit-margin-left="8"
      fit-margin-right="8"
      fit-margin-bottom="8"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -477,7 +478,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -510,7 +510,7 @@
      inkscape:label="foreground"
      transform="translate(102.77641,-19.452568)">
     <rect
-       style="opacity:0.23999999;fill:url(#linearGradient3459);fill-opacity:1;stroke:#7289da;stroke-width:0.68707246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.72;fill:url(#linearGradient3459);fill-opacity:1;stroke:#7289da;stroke-width:0.68707246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3359-3"
        width="93.435425"
        height="20.749054"
@@ -519,7 +519,7 @@
        rx="4.7608843" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.88518381px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.107581px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.88518px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#447821;fill-opacity:1;stroke:#225500;stroke-width:0.107581px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-66.749191"
        y="30.083427"
        id="text4997"><tspan
@@ -527,36 +527,37 @@
          id="tspan4995"
          x="-66.749191"
          y="30.083427"
-         style="stroke-width:0.107581px">#practicalli</tspan></text>
+         style="stroke-width:0.107581px;stroke:#225500;fill:#447821">#practicalli</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.4389081px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11623294px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.43891px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#447821;fill-opacity:1;stroke:#225500;stroke-width:0.116233px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-44.127197"
        y="38.923054"
        id="text5030"><tspan
          sodipodi:role="line"
          x="-44.127197"
          y="38.923054"
-         style="font-size:8.46666622px;text-align:center;text-anchor:middle;stroke-width:0.11623294px"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.116233px;stroke:#225500;fill:#447821"
          id="tspan5036">Clojurians Zulip</tspan></text>
     <g
        id="g1083"
-       transform="matrix(0.04759544,0,0,0.04759544,-92.05195,24.967964)">
+       transform="matrix(0.04759544,0,0,0.04759544,-92.05195,24.967964)"
+       style="stroke:#aade87">
       <path
          id="path1077"
          d="M 1.2427184,0.8288932 H 220.79006 l 0.56916,3.6759612 -64,63.8446606 H 31.896854 L 1.2427184,0.8288932"
          inkscape:connector-curvature="0"
-         style="fill:url(#linearGradient-1)" />
+         style="fill:url(#linearGradient-1);stroke:#aade87" />
       <path
          id="path1079"
          d="M 100.03884,227.41748 4.0388349,226.79612 0.41382524,223.68932 220.79006,0.8288932 253.10074,67.520621 Z"
          inkscape:connector-curvature="0"
-         style="fill:url(#linearGradient-2)" />
+         style="fill:url(#linearGradient-2);stroke:#aade87" />
       <path
          id="path1081"
          d="M 220.37499,223.68932 H 0.41382524 L 34.796116,297.00971 H 255.58617 l -35.21118,-73.32039"
          inkscape:connector-curvature="0"
-         style="fill:url(#linearGradient-3)" />
+         style="fill:url(#linearGradient-3);stroke:#aade87" />
     </g>
   </g>
   <style
