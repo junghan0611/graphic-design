@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="872.93042"
+   height="301.2937"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="clojure-cli-configuration-precedence.svg"
+   inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/clojure/clojure-cli/clojure-cli-configuration-precedence.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.68694125"
+     inkscape:cx="411.24332"
+     inkscape:cy="342.09622"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1055"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     fit-margin-top="8"
+     fit-margin-left="8"
+     fit-margin-right="8"
+     fit-margin-bottom="8"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(185.9383,-403.9419)">
+    <rect
+       style="fill:#e3f4d7;fill-opacity:1;stroke:#000000;stroke-width:6.27761;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2985"
+       width="552.95746"
+       height="57.469242"
+       x="122.89587"
+       y="636.62756"
+       rx="27.731108"
+       ry="10.926609" />
+    <rect
+       style="fill:#b3ff80;fill-opacity:1;stroke:#000000;stroke-width:6.27693;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2985-2"
+       width="552.95752"
+       height="57.456703"
+       x="122.89587"
+       y="561.4433"
+       rx="27.731112"
+       ry="10.924225" />
+    <rect
+       style="fill:#00d400;fill-opacity:1;stroke:#000000;stroke-width:6.23481;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2985-1"
+       width="552.95752"
+       height="56.688187"
+       x="122.89587"
+       y="486.63712"
+       rx="27.73111"
+       ry="10.778108" />
+    <g
+       id="g1139"
+       transform="matrix(1.3314816,0,0,-1.1390162,-36.550323,1214.8201)"
+       style="fill:#00d400;fill-opacity:1;stroke:#00d400;stroke-opacity:1">
+      <g
+         style="display:inline;fill:#00d400;fill-opacity:1;stroke:#00d400;stroke-width:9.80934;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(-0.02151874,0.42128318,-0.45348562,-0.03090431,467.9021,419.36848)"
+         id="g5650-08-5-3-0-9-3">
+        <g
+           style="fill:#00d400;fill-opacity:1;stroke:#00d400;stroke-width:24.384;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+           id="g5654-7-4-7-2-5-6">
+          <rect
+             transform="rotate(12.999579)"
+             ry="2.511035"
+             rx="21.40765"
+             y="969.97491"
+             x="458.97156"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-74-4-7-9-6-5"
+             style="fill:#00d400;fill-opacity:1;stroke:#00d400;stroke-width:24.384;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <rect
+             transform="rotate(-27.22863)"
+             ry="2.511035"
+             rx="21.40765"
+             y="1037.444"
+             x="-275.39764"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-7-29-1-9-7-2-3"
+             style="fill:#00d400;fill-opacity:1;stroke:#00d400;stroke-width:24.384;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+      <rect
+         transform="matrix(-0.71979249,0.69418929,-0.00364015,-0.99999337,0,0)"
+         ry="26.67712"
+         rx="6.2635617"
+         y="-777.33868"
+         x="-139.06612"
+         height="184.32207"
+         width="0.66401672"
+         id="rect6144-3-7-8-1"
+         style="display:inline;fill:#00d400;fill-opacity:1;stroke:#00d400;stroke-width:4.77533;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g17880"
+       style="fill:#00d400;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+      <text
+         transform="rotate(0.47071471)"
+         id="text3742"
+         y="510.45639"
+         x="-41.144447"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00d400;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan3817"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:0.8;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:center;text-anchor:middle;fill:#00d400;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           y="510.45639"
+           x="-41.144444"
+           sodipodi:role="line">Merge into</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:0.8;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:center;text-anchor:middle;fill:#00d400;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           y="563.78967"
+           x="-41.144447"
+           sodipodi:role="line"
+           id="tspan17884">or</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;line-height:0.8;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:center;text-anchor:middle;fill:#00d400;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           y="617.12299"
+           x="-41.144444"
+           sodipodi:role="line"
+           id="tspan17886">override</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="227.33752"
+       y="524.77222"
+       id="text2987-7"><tspan
+         sodipodi:role="line"
+         id="tspan2989-0"
+         x="227.33752"
+         y="524.77222"
+         style="font-size:36px;line-height:1.25;font-family:sans-serif">Project deps.edn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="253.01038"
+       y="600.10327"
+       id="text2987"><tspan
+         sodipodi:role="line"
+         id="tspan2989"
+         x="253.01038"
+         y="600.10327"
+         style="font-size:36px;line-height:1.25;font-family:sans-serif">User deps.edn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="241.78671"
+       y="678.78308"
+       id="text2987-3"><tspan
+         sodipodi:role="line"
+         id="tspan2989-6"
+         x="241.78671"
+         y="678.78308"
+         style="font-size:36px;line-height:1.25;font-family:sans-serif">CLI Tools install</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#00d400;stroke-width:6.23522;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2985-1-9"
+       width="552.95752"
+       height="56.695747"
+       x="122.89587"
+       y="415.05951"
+       rx="27.73111"
+       ry="10.779545" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#55d400;fill-opacity:1;stroke:none"
+       x="138.68225"
+       y="453.19839"
+       id="text2987-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan2989-0-5"
+         x="138.68225"
+         y="453.19839"
+         style="font-size:36px;line-height:1.25;font-family:sans-serif;fill:#55d400">Command line arguments</tspan></text>
+  </g>
+</svg>
