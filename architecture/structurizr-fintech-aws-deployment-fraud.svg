@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 3121.0356 880.33313"
+   id="svg1705"
+   sodipodi:docname="structurizr-fintech-aws-deployment-fraud.svg"
+   width="3121.0356"
+   height="880.33313"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/architecture/structurizr-fintech-aws-deployment-fraud.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1707"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="4"
+     fit-margin-left="4"
+     fit-margin-right="4"
+     fit-margin-bottom="4"
+     inkscape:zoom="0.40096989"
+     inkscape:cx="2293.1896"
+     inkscape:cy="336.68363"
+     inkscape:window-width="3440"
+     inkscape:window-height="1415"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1705" />
+  <g
+     id="j_15"
+     transform="translate(124,851.33311)">
+    <g
+       id="v-215">
+      <text
+         id="v-216"
+         font-size="22px"
+         y="0.80000001em"
+         xml:space="preserve"
+         font-weight="normal"
+         text-anchor="start"
+         fill="#aaaaaa"
+         pointer-events="none"
+         font-family="'Open Sans'"
+         display="block"><tspan
+           id="v-217"
+           dy="0em"
+           x="0">Sunday, 15 January 2023 at 23:37 Greenwich Mean Time</tspan></text>
+    </g>
+  </g>
+  <g
+     id="j_14"
+     transform="translate(124,805.33311)"
+     style="fill:#8fb5fe;fill-opacity:1;stroke:#8fb5fe;stroke-opacity:1">
+    <g
+       id="v-211"
+       style="fill:#8fb5fe;fill-opacity:1;stroke:#8fb5fe;stroke-opacity:1">
+      <text
+         id="v-212"
+         font-size="36px"
+         y="0.80000001em"
+         xml:space="preserve"
+         font-weight="normal"
+         text-anchor="start"
+         fill="#000000"
+         pointer-events="none"
+         font-family="'Open Sans'"
+         display="block"
+         style="fill:#8fb5fe;fill-opacity:1;stroke:#8fb5fe;stroke-opacity:1"><tspan
+           id="v-213"
+           dy="0em"
+           x="0"
+           style="fill:#8fb5fe;fill-opacity:1;stroke:#8fb5fe;stroke-opacity:1">[Deployment] Risk - Production</tspan></text>
+    </g>
+  </g>
+  <rect
+     id="v-103"
+     width="3111.5898"
+     height="771.06989"
+     rx="9.8780632"
+     ry="8.8425446"
+     fill="#ffffff"
+     stroke="#888888"
+     stroke-width="0.934597"
+     pointer-events="none"
+     style="stroke:#888888;fill:#f99103;fill-opacity:0.07232093"
+     x="4.9784851"
+     y="4.4672985" />
+  <text
+     id="v-104"
+     font-size="24px"
+     y="732.33313"
+     xml:space="preserve"
+     font-weight="normal"
+     text-anchor="start"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#000000"
+     style="fill:#e5770d;fill-opacity:1;stroke:#e5770d;stroke-opacity:1"
+     x="20"><tspan
+       id="v-108"
+       dy="0"
+       x="20"
+       style="fill:#e5770d;fill-opacity:1;stroke:#e5770d;stroke-opacity:1">Amazon Web Services</tspan></text>
+  <text
+     id="v-105"
+     font-size="19px"
+     y="756.33313"
+     xml:space="preserve"
+     font-weight="normal"
+     text-anchor="start"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#000000"
+     style="fill:#e5770d;fill-opacity:1;stroke:#e5770d;stroke-opacity:1"
+     x="20"><tspan
+       id="v-109"
+       dy="0"
+       x="20"
+       style="fill:#e5770d;fill-opacity:1;stroke:#e5770d;stroke-opacity:1">[Deployment Node]</tspan></text>
+  <text
+     id="v-106"
+     font-size="40px"
+     y="824.33313"
+     display="none"
+     xml:space="preserve"
+     font-weight="normal"
+     fill="#000000"
+     text-anchor="end"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     x="3140"><tspan
+       id="v-110"
+       dy="0"
+       x="3140"
+       style="fill-opacity:0;stroke-opacity:0">-</tspan></text>
+  <image
+     id="v-107"
+     pointer-events="visible"
+     x="5"
+     y="-32.666885"
+     width="0"
+     height="0" />
+  <rect
+     id="v-113"
+     width="3031.6494"
+     height="665.1712"
+     rx="9.9398346"
+     ry="9.1244335"
+     fill="#ffffff"
+     stroke="#888888"
+     stroke-width="0.952342"
+     pointer-events="none"
+     style="stroke:#888888;fill:#f99103;fill-opacity:0.07121716"
+     x="54.981445"
+     y="31.918074" />
+  <text
+     id="v-114"
+     font-size="24px"
+     y="659.33313"
+     xml:space="preserve"
+     font-weight="normal"
+     text-anchor="start"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#000000"
+     style="fill:#e5770c;fill-opacity:0.88235295;stroke:#e5770c;stroke-opacity:0.88235295"
+     x="70"><tspan
+       id="v-118"
+       x="70"
+       style="fill:#e5770c;fill-opacity:0.88235295;stroke:#e5770c;stroke-opacity:0.88235295">EU-East-1</tspan></text>
+  <text
+     id="v-115"
+     font-size="19px"
+     y="683.33313"
+     xml:space="preserve"
+     font-weight="normal"
+     text-anchor="start"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#000000"
+     style="fill:#e5770c;fill-opacity:0.88235295;stroke:#e5770c;stroke-opacity:0.88235295"
+     x="70"><tspan
+       id="v-119"
+       dy="0"
+       x="70"
+       style="fill:#e5770c;fill-opacity:0.88235295;stroke:#e5770c;stroke-opacity:0.88235295">[Deployment Node]</tspan></text>
+  <text
+     id="v-116"
+     font-size="40px"
+     y="731.33313"
+     display="none"
+     xml:space="preserve"
+     font-weight="normal"
+     fill="#000000"
+     text-anchor="end"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     x="3090"><tspan
+       id="v-120"
+       dy="0"
+       x="3090"
+       style="fill-opacity:0;stroke-opacity:0">-</tspan></text>
+  <image
+     id="v-117"
+     pointer-events="visible"
+     x="55"
+     y="17.333113"
+     width="0"
+     height="0" />
+  <rect
+     id="v-83"
+     width="650"
+     height="586"
+     rx="10"
+     ry="10"
+     fill="#ffffff"
+     stroke="#3f51d4"
+     stroke-width="1"
+     pointer-events="none"
+     style="stroke:#3f51d4;fill:#98affa;fill-opacity:0.07305414"
+     x="2405"
+     y="67.333115" />
+  <text
+     id="v-84"
+     font-size="24px"
+     y="614.33313"
+     xml:space="preserve"
+     font-weight="normal"
+     text-anchor="start"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#3f51d4"
+     style="fill:#4b6be9;fill-opacity:0.94117647;stroke:#4b6be9;stroke-opacity:0.94117647"
+     x="2478"><tspan
+       id="v-88"
+       dy="0"
+       x="2478"
+       style="fill:#4b6be9;fill-opacity:0.94117647;stroke:#4b6be9;stroke-opacity:0.94117647">Amazon RDS</tspan></text>
+  <text
+     id="v-85"
+     font-size="19px"
+     y="638.33313"
+     xml:space="preserve"
+     font-weight="normal"
+     text-anchor="start"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#3f51d4"
+     style="fill:#4b6be9;fill-opacity:0.94117647;stroke:#4b6be9;stroke-opacity:0.94117647"
+     x="2478"><tspan
+       id="v-89"
+       dy="0"
+       x="2478"
+       style="fill:#4b6be9;fill-opacity:0.94117647;stroke:#4b6be9;stroke-opacity:0.94117647">[Deployment Node]</tspan></text>
+  <text
+     id="v-86"
+     font-size="40px"
+     y="638.33313"
+     display="none"
+     xml:space="preserve"
+     font-weight="normal"
+     fill="#3f51d4"
+     text-anchor="end"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     x="3040"><tspan
+       id="v-90"
+       dy="0"
+       x="3040"
+       style="fill-opacity:0;stroke-opacity:0">-</tspan></text>
+  <image
+     id="v-87"
+     pointer-events="visible"
+     xlink:href="https://static.structurizr.com/themes/amazon-web-services-2022.04.30/Arch_Amazon-RDS_48.png"
+     width="48"
+     height="48"
+     opacity="1"
+     x="2420"
+     y="595.33313" />
+  <rect
+     id="v-63"
+     width="650"
+     height="586"
+     rx="10"
+     ry="10"
+     fill="#ffffff"
+     stroke="#da2e6e"
+     stroke-width="1"
+     pointer-events="none"
+     style="stroke:#da2e6e;fill:#f54683;fill-opacity:0.07012327"
+     x="1505"
+     y="67.333115" />
+  <text
+     id="v-64"
+     font-size="24px"
+     y="614.33313"
+     xml:space="preserve"
+     font-weight="normal"
+     text-anchor="start"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#da2e6e"
+     style="fill:#da2e6e"
+     x="1578"><tspan
+       id="v-68"
+       dy="0"
+       x="1578">Autoscaling group</tspan></text>
+  <text
+     id="v-65"
+     font-size="19px"
+     y="638.33313"
+     xml:space="preserve"
+     font-weight="normal"
+     text-anchor="start"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#da2e6e"
+     style="fill:#da2e6e"
+     x="1578"><tspan
+       id="v-69"
+       dy="0"
+       x="1578">[Deployment Node]</tspan></text>
+  <text
+     id="v-66"
+     font-size="40px"
+     y="638.33313"
+     display="none"
+     xml:space="preserve"
+     font-weight="normal"
+     fill="#da2e6e"
+     text-anchor="end"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     x="2140"><tspan
+       id="v-70"
+       dy="0"
+       x="2140"
+       style="fill-opacity:0;stroke-opacity:0">-</tspan></text>
+  <image
+     id="v-67"
+     pointer-events="visible"
+     xlink:href="https://static.structurizr.com/themes/amazon-web-services-2022.04.30/Arch_AWS-Auto-Scaling_48.png"
+     width="48"
+     height="48"
+     opacity="1"
+     x="1520"
+     y="595.33313" />
+  <rect
+     id="v-93"
+     width="550"
+     height="443"
+     rx="10"
+     ry="10"
+     fill="#ffffff"
+     stroke="#888888"
+     stroke-width="1"
+     pointer-events="none"
+     style="stroke:#383fc4;fill:#507cfc;fill-opacity:0.06685028;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+     x="2455"
+     y="117.33311" />
+  <text
+     id="v-94"
+     font-size="24px"
+     y="521.33313"
+     xml:space="preserve"
+     font-weight="normal"
+     text-anchor="start"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#000000"
+     style="fill:#4a6bec;fill-opacity:1;stroke:#4a6bec;stroke-opacity:1"
+     x="2470"><tspan
+       id="v-98"
+       dy="0"
+       x="2470"
+       style="fill:#4a6bec;fill-opacity:1;stroke:#4a6bec;stroke-opacity:1">MySQL</tspan></text>
+  <text
+     id="v-95"
+     font-size="19px"
+     y="545.33313"
+     xml:space="preserve"
+     font-weight="normal"
+     text-anchor="start"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#000000"
+     style="fill:#4a6bec;fill-opacity:1;stroke:#4a6bec;stroke-opacity:1"
+     x="2470"><tspan
+       id="v-99"
+       dy="0"
+       x="2470"
+       style="fill:#4a6bec;fill-opacity:1;stroke:#4a6bec;stroke-opacity:1">[Deployment Node]</tspan></text>
+  <text
+     id="v-96"
+     font-size="40px"
+     y="545.33313"
+     display="none"
+     xml:space="preserve"
+     font-weight="normal"
+     fill="#000000"
+     text-anchor="end"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     x="2990"><tspan
+       id="v-100"
+       dy="0"
+       x="2990"
+       style="fill-opacity:0;stroke-opacity:0">-</tspan></text>
+  <image
+     id="v-97"
+     pointer-events="visible"
+     x="2455"
+     y="117.33311"
+     width="0"
+     height="0" />
+  <rect
+     id="v-73"
+     width="550"
+     height="443"
+     rx="10"
+     ry="10"
+     fill="#ffffff"
+     stroke="#e5770d"
+     stroke-width="1"
+     pointer-events="none"
+     style="stroke:#e5770d;fill:#fc9502;fill-opacity:0.06617712"
+     x="1555"
+     y="117.33311" />
+  <text
+     id="v-74"
+     font-size="24px"
+     y="521.33313"
+     xml:space="preserve"
+     font-weight="normal"
+     text-anchor="start"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#e5770d"
+     style="fill:#e5770d"
+     x="1628"><tspan
+       id="v-78"
+       dy="0"
+       x="1628">Amazon EC2</tspan></text>
+  <text
+     id="v-75"
+     font-size="19px"
+     y="545.33313"
+     xml:space="preserve"
+     font-weight="normal"
+     text-anchor="start"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#e5770d"
+     style="fill:#e5770d"
+     x="1628"><tspan
+       id="v-79"
+       dy="0"
+       x="1628">[Deployment Node]</tspan></text>
+  <text
+     id="v-76"
+     font-size="40px"
+     y="545.33313"
+     display="none"
+     xml:space="preserve"
+     font-weight="normal"
+     fill="#e5770d"
+     text-anchor="end"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     x="2090"><tspan
+       id="v-80"
+       dy="0"
+       x="2090"
+       style="fill-opacity:0;stroke-opacity:0">-</tspan></text>
+  <image
+     id="v-77"
+     pointer-events="visible"
+     xlink:href="https://static.structurizr.com/themes/amazon-web-services-2022.04.30/Arch_Amazon-EC2_48.png"
+     width="48"
+     height="48"
+     opacity="1"
+     x="1570"
+     y="502.3331" />
+  <g
+     id="j_1"
+     transform="translate(1605,167.33311)">
+    <g
+       id="v-10"
+       style="opacity:1">
+      <rect
+         id="v-11"
+         rx="20"
+         ry="20"
+         stroke="#5881d8"
+         stroke-width="2"
+         pointer-events="visiblePainted"
+         fill="#8fb5fe"
+         width="450"
+         height="300"
+         style="fill:#8fb5fe;stroke:#5881d8"
+         x="0"
+         y="0" />
+      <text
+         id="v-12"
+         font-size="34px"
+         y="0.80000001em"
+         xml:space="preserve"
+         font-weight="bold"
+         text-anchor="middle"
+         pointer-events="visible"
+         font-family="'Open Sans'"
+         fill="#eeece6"
+         transform="translate(225,41.9)"
+         style="fill:#eeece6"><tspan
+           id="v-17"
+           dy="0em"
+           x="0">Fraud Service</tspan></text>
+      <text
+         id="v-13"
+         font-size="19px"
+         y="0.80000001em"
+         xml:space="preserve"
+         text-anchor="middle"
+         font-family="'Open Sans'"
+         fill="#eeece6"
+         transform="translate(225,84.4)"
+         style="fill:#eeece6"><tspan
+           id="v-18"
+           dy="0em"
+           x="0">[Container: Http-kit &amp; Reitit]</tspan></text>
+      <text
+         id="v-14"
+         font-size="24px"
+         y="0.80000001em"
+         xml:space="preserve"
+         text-anchor="middle"
+         font-family="'Open Sans'"
+         fill="#eeece6"
+         transform="translate(225,198.1)"
+         style="fill:#eeece6"><tspan
+           id="v-19"
+           dy="0em"
+           x="0">Detect fraudulent transactions via</tspan><tspan
+           id="v-20"
+           dy="1.2em"
+           x="0">Fraud Scoring Data Science models</tspan></text>
+      <text
+         id="v-15"
+         font-weight="bold"
+         text-anchor="middle"
+         font-family="'Open Sans'"
+         fill="#eeece6"
+         font-size="24px"
+         transform="translate(225,270)"
+         style="fill:#eeece6"
+         display="none" />
+      <image
+         id="v-16"
+         xlink:href="https://raw.githubusercontent.com/practicalli/graphic-design/live/logos/clojure-logo-64.png"
+         width="80"
+         height="80"
+         opacity="1"
+         transform="translate(185,108.1)" />
+    </g>
+  </g>
+  <path
+     d="m 2505,197.33311 a 225,30 0 0 0 450,0 225,30 0 0 0 -450,0 v 240 a 225,30 0 0 0 450,0 v -240"
+     id="v-27"
+     stroke="#3f51d4"
+     stroke-width="2"
+     pointer-events="visiblePainted"
+     fill="#eeece6"
+     style="fill:#70b6ff;stroke:#3f51d4;fill-opacity:1" />
+  <rect
+     id="v-28"
+     stroke-width="0"
+     pointer-events="visiblePainted"
+     fill="none"
+     stroke="none"
+     width="450"
+     height="270"
+     x="2505"
+     y="197.33311" />
+  <text
+     id="v-29"
+     font-size="34px"
+     y="270.83313"
+     xml:space="preserve"
+     font-weight="bold"
+     text-anchor="middle"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#3f51d4"
+     style="fill:#3f51d4"
+     x="2730"><tspan
+       id="v-34"
+       dy="0"
+       x="2730">Fraud Database</tspan></text>
+  <text
+     id="v-30"
+     font-size="19px"
+     y="313.3331"
+     xml:space="preserve"
+     text-anchor="middle"
+     font-family="'Open Sans'"
+     fill="#3f51d4"
+     style="fill:#3f51d4"
+     x="2730"><tspan
+       id="v-35"
+       dy="0"
+       x="2730">[Container: Relational database schema]</tspan></text>
+  <text
+     id="v-31"
+     font-size="24px"
+     y="431.03311"
+     xml:space="preserve"
+     text-anchor="middle"
+     font-family="'Open Sans'"
+     fill="#3f51d4"
+     style="fill:#3f51d4"
+     x="2730"><tspan
+       id="v-36"
+       dy="0"
+       x="2730">Historic Fraud detection data</tspan></text>
+  <text
+     id="v-32"
+     font-weight="bold"
+     text-anchor="middle"
+     font-family="'Open Sans'"
+     fill="#3f51d4"
+     font-size="24px"
+     style="fill:#3f51d4"
+     display="none"
+     x="2730"
+     y="440.3331" />
+  <image
+     id="v-33"
+     xlink:href="https://static.structurizr.com/themes/amazon-web-services-2022.04.30/Arch_Amazon-RDS_48.png"
+     width="80"
+     height="80"
+     opacity="1"
+     x="2690"
+     y="327.43311" />
+  <rect
+     id="v-39"
+     rx="20"
+     ry="20"
+     stroke="#7545d1"
+     stroke-width="2"
+     pointer-events="visiblePainted"
+     fill="#ffffff"
+     width="450"
+     height="300"
+     style="fill:#9c62fa;stroke:#7545d1;fill-opacity:0.04"
+     x="105"
+     y="167.33311" />
+  <text
+     id="v-40"
+     font-size="34px"
+     y="248.83311"
+     xml:space="preserve"
+     font-weight="bold"
+     text-anchor="middle"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#7545d1"
+     style="fill:#7545d1"
+     x="330"><tspan
+       id="v-45"
+       dy="0"
+       x="330">Route 53</tspan></text>
+  <text
+     id="v-41"
+     font-size="19px"
+     y="291.3331"
+     xml:space="preserve"
+     text-anchor="middle"
+     font-family="'Open Sans'"
+     fill="#7545d1"
+     style="fill:#7545d1"
+     x="330"><tspan
+       id="v-46"
+       dy="0"
+       x="330">[Infrastructure Node]</tspan></text>
+  <text
+     id="v-42"
+     font-size="24px"
+     y="405.03311"
+     display="none"
+     xml:space="preserve"
+     text-anchor="middle"
+     font-family="'Open Sans'"
+     fill="#7545d1"
+     style="fill:#7545d1"
+     x="330"><tspan
+       id="v-47"
+       dy="0"
+       x="330"
+       style="fill-opacity:0;stroke-opacity:0">-</tspan></text>
+  <text
+     id="v-43"
+     font-weight="bold"
+     text-anchor="middle"
+     font-family="'Open Sans'"
+     fill="#7545d1"
+     font-size="24px"
+     style="fill:#7545d1"
+     display="none"
+     x="330"
+     y="437.3331" />
+  <image
+     id="v-44"
+     xlink:href="https://static.structurizr.com/themes/amazon-web-services-2022.04.30/Arch_Amazon-Route-53_48.png"
+     width="80"
+     height="80"
+     opacity="1"
+     x="290"
+     y="305.43311" />
+  <rect
+     id="v-52"
+     rx="20"
+     ry="20"
+     stroke="#7545d1"
+     stroke-width="2"
+     pointer-events="visiblePainted"
+     fill="#ffffff"
+     width="450"
+     height="300"
+     style="fill:#9c62f9;stroke:#7545d1;fill-opacity:0.04"
+     x="855"
+     y="167.33311" />
+  <text
+     id="v-53"
+     font-size="34px"
+     y="248.83311"
+     xml:space="preserve"
+     font-weight="bold"
+     text-anchor="middle"
+     pointer-events="visible"
+     font-family="'Open Sans'"
+     fill="#7545d1"
+     style="fill:#7545d1"
+     x="1080"><tspan
+       id="v-58"
+       dy="0"
+       x="1080">Elastic Load Balancer</tspan></text>
+  <text
+     id="v-54"
+     font-size="19px"
+     y="291.3331"
+     xml:space="preserve"
+     text-anchor="middle"
+     font-family="'Open Sans'"
+     fill="#7545d1"
+     style="fill:#7545d1"
+     x="1080"><tspan
+       id="v-59"
+       dy="0"
+       x="1080">[Infrastructure Node]</tspan></text>
+  <text
+     id="v-55"
+     font-size="24px"
+     y="405.03311"
+     display="none"
+     xml:space="preserve"
+     text-anchor="middle"
+     font-family="'Open Sans'"
+     fill="#7545d1"
+     style="fill:#7545d1"
+     x="1080"><tspan
+       id="v-60"
+       dy="0"
+       x="1080"
+       style="fill-opacity:0;stroke-opacity:0">-</tspan></text>
+  <text
+     id="v-56"
+     font-weight="bold"
+     text-anchor="middle"
+     font-family="'Open Sans'"
+     fill="#7545d1"
+     font-size="24px"
+     style="fill:#7545d1"
+     display="none"
+     x="1080"
+     y="437.3331" />
+  <image
+     id="v-57"
+     xlink:href="https://static.structurizr.com/themes/amazon-web-services-2022.04.30/Arch_Elastic-Load-Balancing_48.png"
+     width="80"
+     height="80"
+     opacity="1"
+     x="1040"
+     y="305.43311" />
+  <path
+     stroke="#707070"
+     id="v-141"
+     stroke-width="2"
+     stroke-dasharray="30, 30"
+     fill="none"
+     d="m 2055,317.33311 h 430" />
+  <path
+     fill="#000000"
+     stroke="#000000"
+     id="path1554"
+     d="" />
+  <path
+     fill="#707070"
+     stroke="#707070"
+     id="v-143"
+     d="m 2485,327.3331 20,-10 -20,-10 z" />
+  <path
+     id="v-142"
+     fill="none"
+     d="m 2055,317.33311 h 430" />
+  <g
+     display="none"
+     id="g1575"
+     transform="translate(-382,-503.66689)" />
+  <g
+     id="v-145"
+     display="none"
+     transform="translate(-382,-503.66689)">
+    <g
+       id="v-125">
+      <path
+         end="source"
+         d="M 26,0 0,13 26,26 Z"
+         id="path1577" />
+    </g>
+    <g
+       id="v-126">
+      <path
+         end="target"
+         d="M 26,0 0,13 26,26 Z"
+         id="path1580" />
+    </g>
+  </g>
+  <g
+     id="v-144"
+     display="none"
+     transform="translate(-382,-503.66689)">
+    <g
+       id="v-124"
+       transform="translate(2477,821)">
+      <g
+         event="remove"
+         id="g1590">
+        <circle
+           r="11"
+           id="circle1584"
+           cx="0"
+           cy="0" />
+        <path
+           transform="matrix(0.8,0,0,0.8,-12.8,-12.8)"
+           d="m 24.778,21.419 -5.502,-5.502 5.501,-5.502 -2.828,-2.83 -5.502,5.502 -5.502,-5.502 -2.828,2.83 5.501,5.502 -5.502,5.502 2.83,2.829 5.501,-5.502 5.501,5.502 z"
+           id="path1586" />
+        <title
+           id="title1588">Remove link.</title>
+      </g>
+      <g
+         event="link:options"
+         id="g1598">
+        <circle
+           r="11"
+           transform="translate(25)"
+           id="circle1592"
+           cx="0"
+           cy="0" />
+        <path
+           fill="#ffffff"
+           transform="matrix(0.55,0,0,0.55,15.95,-8.8)"
+           d="m 31.229,17.736 c 0.064,-0.571 0.104,-1.148 0.104,-1.736 0,-0.588 -0.04,-1.166 -0.104,-1.737 L 26.852,12.706 C 26.634,11.99 26.348,11.305 26.001,10.656 L 27.994,6.464 C 27.269,5.554 26.445,4.73 25.536,4.005 L 21.343,5.999 C 20.696,5.652 20.009,5.367 19.294,5.15 L 17.736,0.772 C 17.165,0.708 16.588,0.667 16,0.667 c -0.588,0 -1.166,0.041 -1.737,0.105 L 12.707,5.15 c -0.716,0.217 -1.401,0.502 -2.05,0.849 L 6.464,4.005 C 5.554,4.73 4.73,5.554 4.005,6.464 l 1.994,4.192 C 5.652,11.304 5.367,11.99 5.15,12.706 L 0.772,14.263 C 0.708,14.834 0.667,15.412 0.667,16 c 0,0.588 0.041,1.165 0.105,1.736 l 4.378,1.558 c 0.217,0.715 0.502,1.401 0.849,2.049 l -1.994,4.193 c 0.725,0.909 1.549,1.733 2.459,2.458 l 4.192,-1.993 c 0.648,0.347 1.334,0.633 2.05,0.851 l 1.557,4.377 c 0.571,0.064 1.148,0.104 1.737,0.104 0.588,0 1.165,-0.04 1.736,-0.104 l 1.558,-4.377 c 0.715,-0.218 1.399,-0.504 2.049,-0.851 l 4.193,1.993 c 0.909,-0.725 1.733,-1.549 2.458,-2.458 l -1.993,-4.193 c 0.347,-0.647 0.633,-1.334 0.851,-2.049 z M 16,20.871 c -2.69,0 -4.872,-2.182 -4.872,-4.871 0,-2.69 2.182,-4.872 4.872,-4.872 2.689,0 4.871,2.182 4.871,4.872 0,2.689 -2.182,4.871 -4.871,4.871 z"
+           id="path1594" />
+        <title
+           id="title1596">Link options.</title>
+      </g>
+    </g>
+  </g>
+  <path
+     stroke="#707070"
+     id="v-166"
+     stroke-width="2"
+     stroke-dasharray="30, 30"
+     fill="none"
+     d="m 1305,317.33311 h 280" />
+  <path
+     fill="#000000"
+     stroke="#000000"
+     id="path1604"
+     d="" />
+  <path
+     fill="#707070"
+     stroke="#707070"
+     id="v-168"
+     d="m 1585,327.3331 20,-10 -20,-10 z" />
+  <path
+     id="v-167"
+     fill="none"
+     d="m 1305,317.33311 h 280" />
+  <g
+     id="v-162"
+     label-idx="2"
+     cursor="move"
+     transform="translate(1445,384.53311)">
+    <rect
+       id="v-164"
+       fill="#ffffff"
+       rx="3"
+       ry="3"
+       pointer-events="none"
+       display="none"
+       width="0"
+       height="0"
+       x="0"
+       y="0" />
+    <text
+       id="v-163"
+       font-size="19px"
+       y="0.80000001em"
+       display="none"
+       xml:space="preserve"
+       text-anchor="middle"
+       pointer-events="none"
+       fill="#707070"
+       font-family="'Open Sans'"
+       font-weight="normal"><tspan
+         id="v-165"
+         dy="0em"
+         x="0"
+         style="fill-opacity:0;stroke-opacity:0">-</tspan></text>
+  </g>
+  <g
+     display="none"
+     id="g1625"
+     transform="translate(-382,-503.66689)" />
+  <g
+     id="v-170"
+     display="none"
+     transform="translate(-382,-503.66689)">
+    <g
+       id="v-150">
+      <path
+         end="source"
+         d="M 26,0 0,13 26,26 Z"
+         id="path1627" />
+    </g>
+    <g
+       id="v-151">
+      <path
+         end="target"
+         d="M 26,0 0,13 26,26 Z"
+         id="path1630" />
+    </g>
+  </g>
+  <g
+     id="v-169"
+     display="none"
+     transform="translate(-382,-503.66689)">
+    <g
+       id="v-149"
+       transform="translate(1727,821)">
+      <g
+         event="remove"
+         id="g1640">
+        <circle
+           r="11"
+           id="circle1634"
+           cx="0"
+           cy="0" />
+        <path
+           transform="matrix(0.8,0,0,0.8,-12.8,-12.8)"
+           d="m 24.778,21.419 -5.502,-5.502 5.501,-5.502 -2.828,-2.83 -5.502,5.502 -5.502,-5.502 -2.828,2.83 5.501,5.502 -5.502,5.502 2.83,2.829 5.501,-5.502 5.501,5.502 z"
+           id="path1636" />
+        <title
+           id="title1638">Remove link.</title>
+      </g>
+      <g
+         event="link:options"
+         id="g1648">
+        <circle
+           r="11"
+           transform="translate(25)"
+           id="circle1642"
+           cx="0"
+           cy="0" />
+        <path
+           fill="#ffffff"
+           transform="matrix(0.55,0,0,0.55,15.95,-8.8)"
+           d="m 31.229,17.736 c 0.064,-0.571 0.104,-1.148 0.104,-1.736 0,-0.588 -0.04,-1.166 -0.104,-1.737 L 26.852,12.706 C 26.634,11.99 26.348,11.305 26.001,10.656 L 27.994,6.464 C 27.269,5.554 26.445,4.73 25.536,4.005 L 21.343,5.999 C 20.696,5.652 20.009,5.367 19.294,5.15 L 17.736,0.772 C 17.165,0.708 16.588,0.667 16,0.667 c -0.588,0 -1.166,0.041 -1.737,0.105 L 12.707,5.15 c -0.716,0.217 -1.401,0.502 -2.05,0.849 L 6.464,4.005 C 5.554,4.73 4.73,5.554 4.005,6.464 l 1.994,4.192 C 5.652,11.304 5.367,11.99 5.15,12.706 L 0.772,14.263 C 0.708,14.834 0.667,15.412 0.667,16 c 0,0.588 0.041,1.165 0.105,1.736 l 4.378,1.558 c 0.217,0.715 0.502,1.401 0.849,2.049 l -1.994,4.193 c 0.725,0.909 1.549,1.733 2.459,2.458 l 4.192,-1.993 c 0.648,0.347 1.334,0.633 2.05,0.851 l 1.557,4.377 c 0.571,0.064 1.148,0.104 1.737,0.104 0.588,0 1.165,-0.04 1.736,-0.104 l 1.558,-4.377 c 0.715,-0.218 1.399,-0.504 2.049,-0.851 l 4.193,1.993 c 0.909,-0.725 1.733,-1.549 2.458,-2.458 l -1.993,-4.193 c 0.347,-0.647 0.633,-1.334 0.851,-2.049 z M 16,20.871 c -2.69,0 -4.872,-2.182 -4.872,-4.871 0,-2.69 2.182,-4.872 4.872,-4.872 2.689,0 4.871,2.182 4.871,4.872 0,2.689 -2.182,4.871 -4.871,4.871 z"
+           id="path1644" />
+        <title
+           id="title1646">Link options.</title>
+      </g>
+    </g>
+  </g>
+  <path
+     stroke="#707070"
+     id="v-191"
+     stroke-width="2"
+     stroke-dasharray="30, 30"
+     fill="none"
+     d="M 555,317.33311 H 835" />
+  <path
+     fill="#000000"
+     stroke="#000000"
+     id="path1654"
+     d="" />
+  <path
+     fill="#707070"
+     stroke="#707070"
+     id="v-193"
+     d="m 835,327.3331 20,-10 -20,-10 z" />
+  <path
+     id="v-192"
+     fill="none"
+     d="M 555,317.33311 H 835" />
+  <text
+     id="v-179"
+     font-size="24px"
+     y="307.63312"
+     xml:space="preserve"
+     text-anchor="middle"
+     pointer-events="none"
+     fill="#707070"
+     font-family="'Open Sans'"
+     font-weight="normal"
+     x="695"><tspan
+       sodipodi:role="line"
+       id="tspan277702"
+       x="695"
+       y="307.63312"
+       style="fill:#ff6600;stroke:#ff6600"><tspan
+         id="v-181"
+         dy="0 0 0 0 0 0 0 0"
+         x="695"
+         style="fill:#ff6600;stroke:#ff6600">Forwards</tspan></tspan><tspan
+       sodipodi:role="line"
+       id="tspan277704"
+       x="695"
+       y="337.63312"
+       style="fill:#ff6600;stroke:#ff6600"><tspan
+         x="695"
+         style="fill:#ff6600;stroke:#ff6600"
+         id="tspan277706">requests to</tspan></tspan></text>
+  <text
+     id="v-184"
+     font-size="19px"
+     y="361.8331"
+     xml:space="preserve"
+     text-anchor="middle"
+     pointer-events="none"
+     fill="#707070"
+     font-family="'Open Sans'"
+     font-weight="normal"
+     style="fill:#f88a00;fill-opacity:0.137255"
+     x="695"><tspan
+       id="v-186"
+       dy="0"
+       x="695"
+       style="fill:#ff6600;fill-opacity:0.137255;stroke:#ff6600">[HTTPS]</tspan></text>
+  <text
+     id="v-179-3"
+     font-size="24px"
+     y="308.45541"
+     xml:space="preserve"
+     text-anchor="middle"
+     pointer-events="none"
+     fill="#707070"
+     font-family="'Open Sans'"
+     font-weight="normal"
+     x="1419.6959"><tspan
+       sodipodi:role="line"
+       id="tspan277702-6"
+       x="1419.6959"
+       y="308.45541"
+       style="fill:#ff6600;stroke:#ff6600"><tspan
+         id="v-181-7"
+         dy="0 0 0 0 0 0 0 0"
+         x="1419.6959"
+         style="fill:#ff6600;stroke:#ff6600">Forwards</tspan></tspan><tspan
+       sodipodi:role="line"
+       id="tspan277704-5"
+       x="1419.6959"
+       y="338.45541"
+       style="fill:#ff6600;stroke:#ff6600"><tspan
+         x="1419.6959"
+         style="fill:#ff6600;stroke:#ff6600"
+         id="tspan277706-3">requests to</tspan></tspan></text>
+  <text
+     id="v-179-3-2"
+     font-size="24px"
+     y="309.10129"
+     xml:space="preserve"
+     text-anchor="middle"
+     pointer-events="none"
+     fill="#707070"
+     font-family="'Open Sans'"
+     font-weight="normal"
+     x="2277.4993"><tspan
+       sodipodi:role="line"
+       id="tspan277704-5-2"
+       x="2277.4993"
+       y="309.10129"
+       style="fill:#ff6600;stroke:#ff6600">Reads  &amp;</tspan><tspan
+       sodipodi:role="line"
+       x="2277.4993"
+       y="339.10129"
+       style="fill:#ff6600;stroke:#ff6600"
+       id="tspan325273">writes to</tspan></text>
+  <text
+     id="v-184-5"
+     font-size="19px"
+     y="362.6554"
+     xml:space="preserve"
+     text-anchor="middle"
+     pointer-events="none"
+     fill="#707070"
+     font-family="'Open Sans'"
+     font-weight="normal"
+     style="fill:#f88a00;fill-opacity:0.137255"
+     x="1419.6959"><tspan
+       id="v-186-6"
+       dy="0"
+       x="1419.6959"
+       style="fill:#ff6600;fill-opacity:0.137255;stroke:#ff6600">[HTTPS]</tspan></text>
+  <g
+     id="v-187"
+     label-idx="2"
+     cursor="move"
+     transform="translate(695,384.53311)">
+    <rect
+       id="v-189"
+       fill="#ffffff"
+       rx="3"
+       ry="3"
+       pointer-events="none"
+       display="none"
+       width="0"
+       height="0"
+       x="0"
+       y="0" />
+    <text
+       id="v-188"
+       font-size="19px"
+       y="0.80000001em"
+       display="none"
+       xml:space="preserve"
+       text-anchor="middle"
+       pointer-events="none"
+       fill="#707070"
+       font-family="'Open Sans'"
+       font-weight="normal"><tspan
+         id="v-190"
+         dy="0em"
+         x="0"
+         style="fill-opacity:0;stroke-opacity:0">-</tspan></text>
+  </g>
+  <g
+     display="none"
+     id="g1675"
+     transform="translate(-382,-503.66689)" />
+  <g
+     id="v-195"
+     display="none"
+     transform="translate(-382,-503.66689)">
+    <g
+       id="v-175">
+      <path
+         end="source"
+         d="M 26,0 0,13 26,26 Z"
+         id="path1677" />
+    </g>
+    <g
+       id="v-176">
+      <path
+         end="target"
+         d="M 26,0 0,13 26,26 Z"
+         id="path1680" />
+    </g>
+  </g>
+  <g
+     id="v-194"
+     display="none"
+     transform="translate(-382,-503.66689)">
+    <g
+       id="v-174"
+       transform="translate(977,821)">
+      <g
+         event="remove"
+         id="g1690">
+        <circle
+           r="11"
+           id="circle1684"
+           cx="0"
+           cy="0" />
+        <path
+           transform="matrix(0.8,0,0,0.8,-12.8,-12.8)"
+           d="m 24.778,21.419 -5.502,-5.502 5.501,-5.502 -2.828,-2.83 -5.502,5.502 -5.502,-5.502 -2.828,2.83 5.501,5.502 -5.502,5.502 2.83,2.829 5.501,-5.502 5.501,5.502 z"
+           id="path1686" />
+        <title
+           id="title1688">Remove link.</title>
+      </g>
+      <g
+         event="link:options"
+         id="g1698">
+        <circle
+           r="11"
+           transform="translate(25)"
+           id="circle1692"
+           cx="0"
+           cy="0" />
+        <path
+           fill="#ffffff"
+           transform="matrix(0.55,0,0,0.55,15.95,-8.8)"
+           d="m 31.229,17.736 c 0.064,-0.571 0.104,-1.148 0.104,-1.736 0,-0.588 -0.04,-1.166 -0.104,-1.737 L 26.852,12.706 C 26.634,11.99 26.348,11.305 26.001,10.656 L 27.994,6.464 C 27.269,5.554 26.445,4.73 25.536,4.005 L 21.343,5.999 C 20.696,5.652 20.009,5.367 19.294,5.15 L 17.736,0.772 C 17.165,0.708 16.588,0.667 16,0.667 c -0.588,0 -1.166,0.041 -1.737,0.105 L 12.707,5.15 c -0.716,0.217 -1.401,0.502 -2.05,0.849 L 6.464,4.005 C 5.554,4.73 4.73,5.554 4.005,6.464 l 1.994,4.192 C 5.652,11.304 5.367,11.99 5.15,12.706 L 0.772,14.263 C 0.708,14.834 0.667,15.412 0.667,16 c 0,0.588 0.041,1.165 0.105,1.736 l 4.378,1.558 c 0.217,0.715 0.502,1.401 0.849,2.049 l -1.994,4.193 c 0.725,0.909 1.549,1.733 2.459,2.458 l 4.192,-1.993 c 0.648,0.347 1.334,0.633 2.05,0.851 l 1.557,4.377 c 0.571,0.064 1.148,0.104 1.737,0.104 0.588,0 1.165,-0.04 1.736,-0.104 l 1.558,-4.377 c 0.715,-0.218 1.399,-0.504 2.049,-0.851 l 4.193,1.993 c 0.909,-0.725 1.733,-1.549 2.458,-2.458 l -1.993,-4.193 c 0.347,-0.647 0.633,-1.334 0.851,-2.049 z M 16,20.871 c -2.69,0 -4.872,-2.182 -4.872,-4.871 0,-2.69 2.182,-4.872 4.872,-4.872 2.689,0 4.871,2.182 4.871,4.872 0,2.689 -2.182,4.871 -4.871,4.871 z"
+           id="path1694" />
+        <title
+           id="title1696">Link options.</title>
+      </g>
+    </g>
+  </g>
+  <defs
+     id="v-4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2607-3-4"
+       x="-0.11397986"
+       width="1.2279598"
+       y="-0.12677042"
+       height="1.2535408">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="30.39463"
+         id="feGaussianBlur2609-6-8" />
+    </filter>
+  </defs>
+  <g
+     id="g329295"
+     transform="matrix(0.21572519,0,0,0.21572519,-289.53045,564.38055)">
+    <circle
+       style="opacity:0.72;fill:#ffffff;fill-opacity:0.337101;stroke:#ffffff;stroke-width:3.01609;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1035-8"
+       cx="1640.4873"
+       cy="1215.483"
+       r="228.36108" />
+    <g
+       style="fill:#ff0000;fill-opacity:1;stroke:#9200ff;stroke-width:73.7524;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2607-3-4)"
+       transform="matrix(0.40625061,0,0,0.40197877,1566.9794,1081.0714)"
+       id="g2221-5-3-5-7" />
+    <path
+       style="fill:#96ca4b;stroke:#96ca4b;stroke-width:7.38198;stroke-miterlimit:10;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       stroke-miterlimit="10"
+       d="m 1625.7505,1400.6341 c -95.4533,-8.4778 -170.6017,-88.9642 -170.6017,-186.6153 0,-97.6512 75.1484,-178.033 170.6017,-186.5108 v -21.0375 c -107.0708,8.5825 -191.5346,98.384 -191.5346,207.6528 0,109.269 84.4638,199.0704 191.5346,207.6529 z"
+       id="path945-2-0-2-7" />
+    <path
+       style="fill:#5f7fbf;stroke:#5f7fbf;stroke-width:7.38198;stroke-miterlimit:10;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       stroke-miterlimit="10"
+       d="m 1659.243,1006.4705 v 21.0375 c 95.4532,8.4778 170.6017,88.9642 170.6017,186.6153 0,97.6513 -75.1485,178.1377 -170.6017,186.6155 v 21.0374 c 107.071,-8.5825 191.5345,-98.3839 191.5345,-207.6529 0,-109.2688 -84.4635,-199.0703 -191.5345,-207.6528 z"
+       id="path947-7-6-9-6" />
+    <rect
+       style="fill:#96ca4b;fill-opacity:1;stroke:#96ca4b;stroke-width:5.57689;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13839-4"
+       width="86.755501"
+       height="20.485632"
+       x="-456.30795"
+       y="1991.3062"
+       transform="matrix(0.61749626,-0.78657382,0.93331708,0.35905324,0,0)"
+       inkscape:transform-center-x="-1.2027129"
+       inkscape:transform-center-y="0.13363477" />
+    <rect
+       style="fill:#5f7fbf;fill-opacity:1;stroke:#5f7fbf;stroke-width:5.57689;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13839-2-3"
+       width="86.755501"
+       height="20.485632"
+       x="-767.4928"
+       y="2260.1895"
+       transform="matrix(0.61749626,-0.78657382,0.93331708,0.35905324,0,0)"
+       inkscape:transform-center-x="-1.2027129"
+       inkscape:transform-center-y="0.13363477" />
+    <g
+       transform="matrix(1.2875026,0,0,1.2875026,3039.886,1199.5377)"
+       id="g9028-9">
+      <text
+         id="text8986-2"
+         y="79.405045"
+         x="-1077.401"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.5197px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#96ca4b;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.03734px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:199.169px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#96ca4b;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.03734px;stroke-opacity:1"
+           y="79.405045"
+           x="-1077.401"
+           id="tspan8984-54"
+           sodipodi:role="line">i</tspan></text>
+      <text
+         id="text8986-3-0"
+         y="81.54055"
+         x="-1188.8502"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.9676px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#5f7fbf;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.14805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:220.427px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#5f7fbf;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.14805px;stroke-opacity:1"
+           y="81.54055"
+           x="-1188.8502"
+           id="tspan8984-6-5"
+           sodipodi:role="line">P</tspan></text>
+      <text
+         id="text8986-7-9"
+         y="81.903915"
+         x="-1099.8534"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.813px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#b7c8b7;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.54859px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:105.329px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#b7c8b7;stroke:#4d4d4d;stroke-width:0.54859px"
+           y="81.903915"
+           x="-1099.8534"
+           id="tspan8984-5-4"
+           sodipodi:role="line">9</tspan></text>
+    </g>
+  </g>
+</svg>
