@@ -770,7 +770,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
@@ -886,18 +886,18 @@
          y="67.191643"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.985px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold Italic';fill:#5881d8;fill-opacity:1;stroke:#0044aa;stroke-width:0.800811;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">REPL</tspan></text>
     <path
-       style="stroke:#b3b3b3;stroke-width:0.446652;stroke-miterlimit:4;stroke-dasharray:none"
+       style="stroke:#ff8080;stroke-width:0.446652;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        d="m 52.078142,64.670725 c 2.19183,-2.194393 4.390067,-4.380417 6.58724,-6.568535 0.0096,0.886963 0.0014,1.774969 0.0042,2.662975 5.35601,0.003 10.710958,0 16.065898,0.002 -1.283647,1.304292 -2.599384,2.578256 -3.883031,3.883601 0.09949,0.192448 0.290963,0.324241 0.438582,0.482182 1.149933,1.146351 2.307343,2.285385 3.447659,3.441157 -5.356017,0 -10.713098,-0.002 -16.069108,10e-4 -0.0014,0.884879 0.0021,1.77079 -0.0014,2.655669 -2.204665,-2.178728 -4.393278,-4.374173 -6.590451,-6.560187 z"
        id="path4143-6" />
     <path
-       style="stroke:#b3b3b3;stroke-width:0.460954;stroke-miterlimit:4;stroke-dasharray:none"
+       style="stroke:#ff8080;stroke-width:0.460954;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        d="m 76.08991,50.757378 c -2.339215,-2.18991 -4.685283,-4.371468 -7.030209,-6.555107 -0.01029,0.885152 -0.0015,1.771334 -0.0045,2.657525 -5.716184,0.003 -11.431225,0 -17.146266,0.002 1.369967,1.301628 2.774183,2.57299 4.14415,3.875668 -0.106179,0.192055 -0.310529,0.323579 -0.468074,0.481198 -1.227263,1.144009 -2.462505,2.280716 -3.679503,3.434127 5.716184,0 11.433509,-0.002 17.149693,0.001 0.0015,0.883071 -0.0023,1.767172 0.0015,2.650244 2.352914,-2.174288 4.688703,-4.365248 7.033629,-6.546796 z"
        id="path4143-8-3" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#fbf1c7;fill-opacity:1;stroke:#999999;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#ff8080;fill-opacity:1;stroke:#800000;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none"
        x="-184.25119"
        y="-39.444004"
        id="text6368"><tspan
@@ -905,7 +905,7 @@
          id="tspan6366"
          x="-184.25119"
          y="-39.444004"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#fbf1c7;fill-opacity:1;stroke:#999999;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none">Clojure Editor</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ff8080;fill-opacity:1;stroke:#800000;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none">Clojure Editor</tspan></text>
     <rect
        id="rect4046"
        rx="8.4294338"
@@ -916,7 +916,7 @@
        style="fill:#fbf1c7;fill-opacity:1;stroke:#000000;stroke-width:1.74294424;stroke-miterlimit:4;stroke-dasharray:none" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fbf1c7;fill-opacity:1;stroke:#999999;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8080;fill-opacity:1;stroke:#800000;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none"
        x="73.827888"
        y="-1.8562014"
        id="text6368-7"><tspan
@@ -924,7 +924,7 @@
          id="tspan6366-9"
          x="73.827888"
          y="-1.8562014"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke:#999999;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none;fill:#fbf1c7;fill-opacity:1">REPL Process</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke:#800000;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff8080;fill-opacity:1">REPL Process</tspan></text>
     <path
        style="stroke-width:0.12531705"
        inkscape:connector-curvature="0"
@@ -932,15 +932,15 @@
        id="path4143-8-3-4" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#fbf1c7;fill-opacity:1;stroke:#999999;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none"
-       x="196.67973"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#ff8080;fill-opacity:1;stroke:#800000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       x="241.65829"
        y="-41.565441"
        id="text6368-2-3"><tspan
          sodipodi:role="line"
          id="tspan6366-0-9"
-         x="196.67973"
+         x="241.65829"
          y="-41.565441"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke:#999999;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none;fill:#fbf1c7;fill-opacity:1">Data inspector / visualisation</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ff8080;fill-opacity:1;stroke:#800000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none">Data inspector </tspan></text>
     <g
        id="g4930"
        transform="matrix(1.220786,0,0,1.1388982,-96.076405,-10.383306)">
@@ -1079,7 +1079,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;display:inline;fill:#fbf1c7;fill-opacity:1;stroke:#999999;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff8080;fill-opacity:1;stroke:#800000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
        x="-71.605865"
        y="147.41504"
        id="text6368-5"><tspan
@@ -1087,9 +1087,9 @@
          id="tspan6366-3"
          x="-71.605865"
          y="147.41504"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#fbf1c7;fill-opacity:1;stroke:#999999;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none">Terminal UI</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ff8080;fill-opacity:1;stroke:#800000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none">Terminal UI</tspan></text>
     <path
-       style="display:inline;stroke:#b3b3b3;stroke-width:0.460954;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;stroke:#ff8080;stroke-width:0.460954;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0"
        d="m 209.07078,56.345993 c -2.33921,-2.18991 -4.68528,-4.37147 -7.03021,-6.55511 -0.0103,0.88515 -0.001,1.77134 -0.005,2.65753 -5.71618,0.003 -11.43122,0 -17.14627,0.002 1.36997,1.30163 2.77419,2.57299 4.14416,3.87567 -0.10618,0.19205 -0.31053,0.32357 -0.46808,0.48119 -1.22726,1.14401 -2.4625,2.28072 -3.6795,3.43413 5.71618,0 11.43351,-0.002 17.14969,0.001 0.001,0.88307 -0.002,1.76717 0.001,2.65024 2.35291,-2.17428 4.6887,-4.36524 7.03363,-6.54679 z"
        id="path4143-8-3-5" />
