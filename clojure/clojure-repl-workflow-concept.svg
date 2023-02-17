@@ -775,15 +775,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52157982"
-     inkscape:cx="1059.2818"
-     inkscape:cy="456.306"
+     inkscape:zoom="3.0418534"
+     inkscape:cx="1460.1296"
+     inkscape:cy="397.7838"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:window-width="3440"
-     inkscape:window-height="1415"
+     inkscape:window-width="1920"
+     inkscape:window-height="1055"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -925,11 +925,6 @@
          x="73.827888"
          y="-1.8562014"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke:#800000;stroke-width:0.26458333;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff8080;fill-opacity:1">REPL Process</tspan></text>
-    <path
-       style="stroke-width:0.12531705"
-       inkscape:connector-curvature="0"
-       d="m 228.3895,55.878309 c -3.11316,-2.16853 -6.23544,-4.32879 -9.3562,-6.49111 -0.0137,0.87651 -0.002,1.75404 -0.006,2.63158 -7.60742,0.003 -15.21332,0 -22.81922,0.002 1.82323,1.28892 3.69204,2.54787 5.51527,3.83783 -0.14131,0.19018 -0.41327,0.32042 -0.62294,0.4765 -1.63331,1.13284 -3.27724,2.25845 -4.89689,3.4006 7.60742,0 15.21636,-0.002 22.82378,10e-4 0.002,0.874451 -0.003,1.749921 0.002,2.624371 3.13139,-2.153061 6.23999,-4.322631 9.36075,-6.482881 z"
-       id="path4143-8-3-4" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#ff8080;fill-opacity:1;stroke:#800000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
