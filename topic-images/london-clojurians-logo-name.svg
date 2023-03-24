@@ -30,7 +30,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -62,7 +62,7 @@
   <defs
      id="defs4203" />
   <rect
-     style="opacity:1;fill:#63b132;fill-opacity:1;stroke:#5881d8;stroke-width:8;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#63b132;fill-opacity:1;stroke:#5881d8;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect902"
      width="258.98608"
      height="50.55978"
