@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="186.46748"
+   height="180.01691"
+   viewBox="0 0 49.336188 47.629473"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/engineering-playbook/kanban-concepts.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="kanban-concepts.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="4"
+     fit-margin-left="4"
+     fit-margin-right="4"
+     fit-margin-bottom="4"
+     units="px"
+     inkscape:zoom="1.3273709"
+     inkscape:cx="-10.923849"
+     inkscape:cy="204.16298"
+     inkscape:window-width="3440"
+     inkscape:window-height="1415"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-80.331902,-136.44909)">
+    <rect
+       style="opacity:1;fill:#5aa02c;fill-opacity:1;stroke:#c6e9af;stroke-width:0.465439;stroke-linecap:round"
+       id="rect846"
+       width="46.754082"
+       height="11.261844"
+       x="81.622955"
+       y="137.74014"
+       rx="1.6823795"
+       ry="1.5081216" />
+    <rect
+       style="fill:#37c8ab;fill-opacity:1;stroke:#d7f4ee;stroke-width:0.465439;stroke-linecap:round"
+       id="rect846-27-0"
+       width="46.754082"
+       height="11.261844"
+       x="81.622955"
+       y="149.00198"
+       rx="1.6823795"
+       ry="1.5081216" />
+    <rect
+       style="fill:#bc5fd3;fill-opacity:1;stroke:#eed7f4;stroke-width:0.465439;stroke-linecap:round"
+       id="rect846-27"
+       width="46.754082"
+       height="11.261844"
+       x="81.622955"
+       y="160.26382"
+       rx="1.6823795"
+       ry="1.5081216" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.46667px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';stroke-width:0.264583"
+       x="86.894058"
+       y="146.52983"
+       id="text6370"><tspan
+         sodipodi:role="line"
+         id="tspan6368"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="86.894058"
+         y="146.52983">Visualise</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.46667px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';stroke-width:0.264583"
+       x="85.357338"
+       y="157.36069"
+       id="text6370-3"><tspan
+         sodipodi:role="line"
+         id="tspan6368-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="85.357338"
+         y="157.36069">Limit WIP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.46667px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';stroke-width:0.264583"
+       x="95.098244"
+       y="168.3696"
+       id="text6370-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan6368-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="95.098244"
+         y="168.3696">Flow</tspan></text>
+    <rect
+       style="fill:#c83771;fill-opacity:1;stroke:#ffd5f6;stroke-width:0.465439;stroke-linecap:round"
+       id="rect846-27-9"
+       width="46.754082"
+       height="11.261844"
+       x="81.622955"
+       y="171.52567"
+       rx="1.6823795"
+       ry="1.5081216" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.46667px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';stroke-width:0.264583"
+       x="91.415268"
+       y="179.71953"
+       id="text6370-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan6368-6-56"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="91.415268"
+         y="179.71953">Evolve</tspan></text>
+  </g>
+</svg>
