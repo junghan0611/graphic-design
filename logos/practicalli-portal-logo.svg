@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="36.274509"
-   height="36.274509"
-   viewBox="0 0 9.5976304 9.5976304"
+   width="181.3792"
+   height="181.3792"
+   viewBox="0 0 47.989912 47.989912"
    version="1.1"
    id="svg8"
    sodipodi:docname="practicalli-portal-logo.svg"
@@ -78,9 +78,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="80.1875"
-     inkscape:cy="-3.125"
+     inkscape:zoom="2"
+     inkscape:cx="-31.25"
+     inkscape:cy="191.5"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -110,9 +110,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-39.367015,-3.9040345)">
+     transform="translate(-39.367016,34.488245)">
     <g
-       id="g17123">
+       id="g17123"
+       transform="matrix(5.0001832,0,0,5.0001832,-157.47527,-54.009133)"
+       inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/logos/g17123.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          style="fill:#ff0000;fill-opacity:1;stroke:#9200ff;stroke-width:73.7524;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2607-3-4)"
          transform="matrix(0.00854302,0,0,0.00845318,42.606092,5.8778043)"
