@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="774.48322"
+   height="119.82658"
+   viewBox="0 0 204.91535 31.704116"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="data-workflow-aquire-clean-explore-transform.svg"
+   inkscape:export-filename="/home/practicalli/projects/practicalli/graphic-design/data-science/data-workflow-aquire-clean-explore-transform.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     fit-margin-top="8"
+     fit-margin-left="8"
+     fit-margin-right="8"
+     fit-margin-bottom="8"
+     inkscape:zoom="1.3273709"
+     inkscape:cx="307.75121"
+     inkscape:cy="217.72362"
+     inkscape:window-width="3440"
+     inkscape:window-height="1415"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.439884,-28.115563)">
+    <g
+       id="g25373"
+       transform="translate(-3.2547649,4.0687926)"
+       style="fill:#aca793;stroke:#6c5d53">
+      <rect
+         style="fill:#aca793;fill-opacity:0;stroke:#6c5d53;stroke-width:0.658348;stroke-linecap:round"
+         id="rect846-3-2"
+         width="39.313713"
+         height="13.406218"
+         x="12.14049"
+         y="26.492611"
+         rx="5.6389322"
+         ry="2.487185" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:8.46667px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';text-align:center;text-anchor:middle;fill:#aca793;stroke:#6c5d53;stroke-width:0.264583"
+         x="31.945511"
+         y="35.655289"
+         id="text1532"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#aca793;stroke:#6c5d53;stroke-width:0.264583"
+           x="31.945511"
+           y="35.655289"
+           id="tspan7876">Aquire</tspan></text>
+    </g>
+    <g
+       id="g1282"
+       transform="translate(1.0583333)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:8.46667px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';text-align:center;text-anchor:middle;fill:#55d400;stroke:#44aa00;stroke-width:0.264583"
+         x="78.402412"
+         y="47.056107"
+         id="text1532-6-6"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#55d400;stroke:#44aa00;stroke-width:0.264583"
+           x="78.402412"
+           y="47.056107"
+           id="tspan7876-5-2">Clean</tspan></text>
+      <rect
+         style="fill:#1a1a1a;fill-opacity:0;stroke:#44aa00;stroke-width:0.809274;stroke-linecap:round"
+         id="rect846-3-5"
+         width="37.661324"
+         height="21.146301"
+         x="59.804245"
+         y="33.320236"
+         rx="5.4019232"
+         ry="3.923162" />
+    </g>
+    <g
+       id="g1287"
+       transform="translate(3.1750001)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:8.46667px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';text-align:center;text-anchor:middle;fill:#00aad4;stroke:#00aad4;stroke-width:0.264583"
+         x="126.75834"
+         y="47.056107"
+         id="text1532-6-6-9"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#00aad4;stroke:#00aad4;stroke-width:0.264583"
+           x="126.75834"
+           y="47.056107"
+           id="tspan7876-5-2-1">Explore</tspan></text>
+      <rect
+         style="fill:#1a1a1a;fill-opacity:0;stroke:#00aad4;stroke-width:0.809274;stroke-linecap:round"
+         id="rect846-3-5-2"
+         width="37.661324"
+         height="21.146301"
+         x="108.16016"
+         y="33.320236"
+         rx="5.4019232"
+         ry="3.923162" />
+    </g>
+    <g
+       id="g1292"
+       transform="translate(5.2916669)">
+      <rect
+         style="fill:#1a1a1a;fill-opacity:0;stroke:#ff0000;stroke-width:0.898891;stroke-linecap:round;stroke-opacity:1"
+         id="rect846-3-5-2-7"
+         width="46.661949"
+         height="21.056684"
+         x="156.83551"
+         y="33.365044"
+         rx="6.6929212"
+         ry="3.9065359" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:8.46667px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';text-align:center;text-anchor:middle;fill:#d45500;stroke:#ff0000;stroke-width:0.264583;stroke-opacity:1"
+         x="179.44035"
+         y="46.571209"
+         id="text1532-6-6-9-0"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#d45500;stroke:#ff0000;stroke-width:0.264583;stroke-opacity:1"
+           x="179.44035"
+           y="46.571209"
+           id="tspan7876-5-2-1-9">Transform</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 54.016818,50.08773 c -1.658421,0.0032 -3.316051,0.0022 -4.974472,0 1.952759,-2.06986 3.918968,-4.12627 5.870934,-6.197714 -1.963043,-2.059575 -3.919759,-4.124688 -5.87489,-6.191382 1.659211,-8.41e-4 3.317632,-0.004 4.976844,0.0017 1.95434,2.069061 3.918968,4.127846 5.872515,6.196914 -1.956713,2.06354 -3.915009,4.126281 -5.870931,6.190601 z"
+       id="path4247"
+       style="stroke:#e6e6e6;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 104.47269,50.08773 c -1.65843,0.0032 -3.31606,0.0022 -4.974487,0 1.952757,-2.06986 3.918977,-4.12627 5.870957,-6.197714 -1.96305,-2.059575 -3.91978,-4.124688 -5.874917,-6.191382 1.659217,-8.41e-4 3.317647,-0.004 4.976867,0.0017 1.95435,2.069061 3.91899,4.127846 5.87254,6.196914 -1.95672,2.06354 -3.91502,4.126281 -5.87096,6.190601 z"
+       id="path4247-0"
+       style="stroke:#cccccc;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 155.23127,50.08773 c -1.65842,0.0032 -3.31605,0.0022 -4.97447,0 1.95276,-2.06986 3.91897,-4.12627 5.87094,-6.197714 -1.96305,-2.059575 -3.91976,-4.124688 -5.87489,-6.191382 1.65921,-8.41e-4 3.31763,-0.004 4.97684,0.0017 1.95434,2.069061 3.91897,4.127846 5.87252,6.196914 -1.95672,2.06354 -3.91501,4.126281 -5.87094,6.190601 z"
+       id="path4247-6"
+       style="stroke:#cccccc;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       id="g25378"
+       transform="translate(-3.374329,-6.0846765)"
+       style="fill:#aca793;stroke:#6c5d53">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:8.46667px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Bold';text-align:center;text-anchor:middle;fill:#aca793;stroke:#6c5d53;stroke-width:0.264583"
+         x="31.895742"
+         y="59.697571"
+         id="text1532-6"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#aca793;stroke:#6c5d53;stroke-width:0.264583"
+           x="31.895742"
+           y="59.697571"
+           id="tspan7876-5">Generate</tspan></text>
+      <rect
+         style="fill:#aca793;fill-opacity:0;stroke:#6c5d53;stroke-width:0.658348;stroke-linecap:round"
+         id="rect846-3-2-6"
+         width="39.313713"
+         height="13.406218"
+         x="12.260054"
+         y="50.052296"
+         rx="5.6389322"
+         ry="2.487185" />
+    </g>
+  </g>
+</svg>
