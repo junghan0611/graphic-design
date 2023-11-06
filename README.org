@@ -4,6 +4,11 @@ Images, banners and logos for the [[https://practicalli.github.io/][Practicalli 
 
 I am not a graphic designer, however, with the use of [[https://inkscape.org/][Inkscape]] and Scalable Vector Graphics, I can create some nice visualisations of information and themes.
 
+## External references
+
+- [Free SVG graphics](https://freesvg.org/)
+
+
 ## Practicalli logo
 
 [[practicalli-logo.svg][SVG version]]
